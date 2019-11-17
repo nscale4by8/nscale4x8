@@ -28,8 +28,8 @@ The plan is inspired by the famouse [Atlas Granite Gorge & Northern](https://www
 
 ## Benchwork, Test Fit, and Controls
 
-[Benchwork](../blob/master/benchwork.md)
+[Benchwork](benchwork/benchwork.md)
 
 ## Electronic Control
 
-[Control](../blob/master/controls/Control.md)
+[Control](controls/Control.md)
