@@ -1,5 +1,5 @@
 # nscale4x8
-My N Scale layout in 20+ years
+This repository contains information and resources related to my N Scale layout 2019.
 
 ## 3D Printed Custom Bridges
 
