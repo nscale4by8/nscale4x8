@@ -9,7 +9,7 @@ The masonite is cut with a saber-saw, and medium density styrofoam is used to pr
 
 ![Image of steel viaduct](IMG_0102.png)
 
-I designed lift bridges in SketchUp and Blender. In most cases, I had to make several test prints and minor changes to 3D models before everything worked right. The unpainted modern lift bridge on the right side of the photo is so-far only time one of my models has printed just right on the first try. The bridges are designed to fit the track plan with tight tolerances. It was necessary to test fit everything full-sized on the cut masonite. There weren't any significant problems with the elevations or fit. I attribute the success to use full size CAD drawings and the fact that 3D printers produce dimensionally accurate results. In my limited experience, if I had scratch built the bridges from styrene or wood, there would have been endless tweaking and adjusting to get the right fit.
+I designed lift bridges in SketchUp and Blender. In most cases, I had to make several test prints and minor changes to 3D models before everything worked right. The unpainted modern lift bridge on the right side of the photo is so-far the only time one of my models has printed just right on the first try. The bridges are designed to fit the track plan with tight tolerances. It was necessary to test fit everything full-sized on the cut masonite. There weren't any significant problems with the elevations or fit. I attribute the success to use full size CAD drawings and the fact that 3D printers produce dimensionally accurate results. In my limited experience, if I had scratch built the bridges from styrene or wood, there would have been endless tweaking and adjusting to get the right fit.
 
 ![Image of steel viaduct](IMG_0105.png)
 
