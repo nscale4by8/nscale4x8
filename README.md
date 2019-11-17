@@ -16,7 +16,10 @@ I am loosely modeling the Clevelan Flats from around 1960. I seleted the prototy
 
 The plan is inspired by the famouse [Atlas Granite Gorge & Northern](https://www.modeltrainforum.com/picture.php?albumid=241&pictureid=2492). I adapted it to support more continuous run variations as well as opportunities for local switching on sidings while other trains run continuously. 
 ![Plan](rev8s.png)
-[Plan](../blob/master/IMG_0104.png)
+
+![Plan](benchwork/IMG_0104.png)
+
+[Plan](../blob/master/benchwork/Rev8Blocks.pdf)
 
 
 ## 3D Printed Custom Bridges
@@ -26,7 +29,7 @@ The plan is inspired by the famouse [Atlas Granite Gorge & Northern](https://www
 
 ## Benchwork, Test Fit, and Controls
 
-[Benchwork](../blob/master/Benchwork.md)
+[Benchwork](../blob/master/benchwork.md)
 
 ## Electronic Control
 
