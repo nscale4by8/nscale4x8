@@ -24,8 +24,6 @@ The plan is inspired by the famous [Atlas Granite Gorge & Northern](https://www.
   
 ![Plan](plan/rev8s.png)
 
-![Plan](benchwork/IMG_0104.png)
-
 [Plan](../blob/master/benchwork/Rev8Blocks.pdf)
 
 ## 3D Printed Custom Bridges
@@ -37,7 +35,9 @@ The plan is inspired by the famous [Atlas Granite Gorge & Northern](https://www.
 
 The benchwork is currently dry-fit. Nothing is glued down. All of the wiring is in place for four separate electrical blocks. All turnouts are remotely operated by the Control System. I plan to test the layout for a while to assure reliable operation because once the benchwork is glued, it will be very difficult to modify wiring.
 
-The benchwork consists of 1x2 dimensional lumber covered with 2 inch medium density foam. Then another quarter inch of foam covers everywhere except the river. Channels are cut in the quarter inch foam to provide routing for bundles of wires. One inch foam "feet" support the lowest elevations. Feet of various lengths create grades and elevated sections. Pre-primed Masonite rests atop the foam feet. Track will eventually be glued to the Masonite.
+The benchwork consists of 1x2 dimensional lumber covered with 2 inch medium density foam. Then another quarter inch of foam covers everywhere except the river. Channels are cut in the quarter inch foam to provide routing for bundles of wires. On top of the quarter inch later, one inch foam "feet" support the lowest track elevations. Feet of various lengths create grades and elevated sections. Pre-primed Masonite rests atop the foam feet. Track will eventually be glued to the Masonite.
+
+![Benchwork](benchwork/IMG_0104.png)
 
 ![Benchwork](benchwork/IMG_0110.png)
 
@@ -45,7 +45,9 @@ The benchwork consists of 1x2 dimensional lumber covered with 2 inch medium dens
 
 ## Electronic Control
 
-The entire layout is controlled by a Raspberry Pi B+ with an add-on "hat" with four motor controllers. Three motor controllers are used as throttles so that three separate trains can be independently controlled. The remaining motor controller is connected through relays to actuate remote turnouts. Sixteen relays are individually controlled using general purpose input/output pins provided by the Raspberry Pi.
+Layout control is implemented by a Raspberry Pi B+ with an add-on "hat" that provides four motor controllers. Three motor controllers are used as throttles so that three separate trains can be independently controlled. The remaining motor controller is connected through relays to actuate remote turnouts (one turnout at a time). Sixteen relays are individually controlled using general purpose input/output pins provided by the Raspberry Pi.
+
+The Raspberry Pi provides wireless access accepting commands from a laptop or smart phone. Each throttle can be manually set, and each turnout can be actuated independently. However, there are three pre-configured fully automated "modes" that may be selected. Once selected, all of the turnouts are set appropriately for the mode, and throttles are adjusted under computer control. This allows a quick setup for passive operation to watch trains run. I may take the layout to a show sometime, and full computer control will be useful in that environment. I'll be able to chat or even walk away from the layout while it runs itself.
 
 ![Control](controls/IMG_0125.png)
 
