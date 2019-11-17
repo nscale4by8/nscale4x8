@@ -11,7 +11,7 @@ I am loosely modeling the Cleveland Flats from around 1960. I selected the proto
 - [Lift Bridges Over and Under](prototypeInspiration/LIftBridgesOverUnder.png)
 - [Curved Approach to Lift Bridge](prototypeInspiration/curveToLiftBridge.png)
 - [Crossing at Approach to Bridge](prototypeInspiration/levelCrossingAtBridge.png)
-- [Multiple Spurs to Industries with MAny Grade Level Crossings](prototypeInspiration/industry.png)
+- [Multiple Spurs to Industries with Many Grade Level Crossings](prototypeInspiration/industry.png)
 
 ## Track Plan
 
