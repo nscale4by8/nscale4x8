@@ -13,6 +13,8 @@ I designed lift bridges in SketchUp and Blender. In most cases, I had to make se
 
 ![Image of steel viaduct](IMG_0105.png)
 
+The bidge ties are 3D printed in the largest curved sections my printer can produce.  Tie guide rails, plates and spikes are part of the printed model with tolerances so tight that the rails require light force slide into place. Once the rails are in, a couple of spots of super glue on the outsides of the rails fix them permanantly in place. 3D printing is able to produce the correct gauge every time. The result is solid. 
+
 ![Image of steel viaduct](IMG_0110.png)
 
 ![Image of steel viaduct](IMG_0112.png)
