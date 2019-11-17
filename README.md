@@ -31,7 +31,7 @@ The plan is inspired by the famous [Atlas Granite Gorge & Northern](https://www.
 ![Models and Prototype Inspirations](Custom3DPrintedModels.png)
 [Models](Custom3DPrintedBridges.md)
 
-## Benchwork, Test Fit, and Controls
+## Benchwork Test Fit
 
 The benchwork is currently dry-fit. Nothing is glued down. All of the wiring is in place for four separate electrical blocks. All turnouts are remotely operated by the Control System. I plan to test the layout for a while to assure reliable operation because once the benchwork is glued, it will be very difficult to modify wiring.
 
