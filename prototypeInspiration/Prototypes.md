@@ -10,7 +10,7 @@ Although not quite as astounding as bridges over bridges, I highlighted three se
 
 The linked aerial photo shows two separate steel mills and countless other rail served industries crammed into the Flats.
 
-[1937 Aerial Photo Shows ten railroad bridges Over The Cuyahoga River in the Flats](https://upload.wikimedia.org/wikipedia/commons/a/a5/Downtown_Cleveland%2C_Ohio%2C_in_winter%2C_from_the_air%2C_12-1937_-_NARA_-_512842.jpg)
+[1937 Aerial Photo Shows Ten Railroad Bridges Over The Cuyahoga River in the Flats](https://upload.wikimedia.org/wikipedia/commons/a/a5/Downtown_Cleveland%2C_Ohio%2C_in_winter%2C_from_the_air%2C_12-1937_-_NARA_-_512842.jpg)
 
 [1892 Map of Cleveland Flats](http://www.clevelandmemory.org/iac/graphics/map1.gif)
 
