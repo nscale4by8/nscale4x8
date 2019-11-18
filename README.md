@@ -20,7 +20,7 @@ The plan is inspired by the famous [Atlas Granite Gorge & Northern](https://www.
   
 ![Plan](plan/rev8s.png)
 
-[Plan](../blob/master/benchwork/Rev8Blocks.pdf)
+[Plan](plan/Rev8Blocks.pdf)
 
 ## 3D Printed Custom Bridges
 
