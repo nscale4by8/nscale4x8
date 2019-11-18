@@ -24,8 +24,8 @@ The plan is inspired by the famous [Atlas Granite Gorge & Northern](https://www.
 
 ## 3D Printed Custom Bridges
 
-![Models and Prototype Inspirations](Custom3DPrintedModels.png)
-[Models](Custom3DPrintedBridges.md)
+![Models and Prototype Inspirations](printedModels/Custom3DPrintedModels.png)
+[Models](printedModels/Custom3DPrintedBridges.md)
 
 ## Benchwork Test Fit
 
