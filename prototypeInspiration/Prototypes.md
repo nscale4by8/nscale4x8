@@ -2,7 +2,7 @@
 
 The Cleveland Flats were once a site of densely packed industries including multiple steel mills. Cleveland's Lake Erie port received iron ore from mines along the shores of Lake Superior. Cleveland also received coal via the Great Lakes, but coal primarily arrived from Appalachia via rail. Something like four times as much coal is needed compared to iron when making steel, and Cleveland's proximity to the coal combined with a port for receiving iron made it a prime location. As far as I know, only one steel mill remains on the Cuyahoga River.
 
-The Flats were once served by at least four major railroads and a couple of regional ones. With limited rights of way available, the railroads stacked themselves atop each other. The bike trail pictured follows an abandoned Flats Industrial Railroad right of way, and the overpass was a B&O right of way. (I might have that reversed) There was a narrow tributary to the Cuyahoga River up-steam from the Flats where three railroad bridges crossed over each other at different elevations. I haven't yet found a picture online, but old maps show it, and there is a large format aerial picture of it in the Great Lakes Science Center. Whenever someone says a scene is unrealistic because railroads never built bridges over bridges, tell them about Cleveland.
+The Flats were once served by at least four major railroads and a couple of regional ones. With limited rights of way available, the railroads stacked themselves atop each other. There was a narrow tributary to the Cuyahoga River up-steam from the Flats where three railroad bridges crossed over each other at different elevations. I haven't yet found a picture online, but old maps show it, and there is a large format aerial picture of it in the Great Lakes Science Center. Whenever someone says a scene is unrealistic because railroads never built bridges over bridges, tell them about Cleveland.
 
 I highlighted three separate rail lines crossing each other at different elevations.   Green crosses over yellow. Yellow crosses over blue. In the same area, yellow also has a grade crossing at an interchange yard with blue. Two lift bridges, a viaduct, and multiple trusses are shown.
 
@@ -17,3 +17,5 @@ I highlighted three separate rail lines crossing each other at different elevati
 - [Curved Approach to Lift Bridge](curveToLiftBridge.png)
 - [Crossing at Approach to Bridge](levelCrossingAtBridge.png)
 - [Multiple Spurs to Industries with Many Grade Level Crossings](industry.png)
+
+[Back](https://github.com/nscale4by8/nscale4x8/blob/master/README.md)
