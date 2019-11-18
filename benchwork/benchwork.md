@@ -17,6 +17,8 @@ The bidge ties are 3D printed in the largest curved sections my printer can prod
 
 ![Image of steel viaduct](IMG_0110.png)
 
+![This photo is from West Virginia, but it helped to inspire the modeled steel viaduct.](https://cdn.onlyinyourstate.com/wp-content/uploads/2016/07/bridge-history-700x537.jpg)
+
 ![Image of steel viaduct](IMG_0112.png)
 
 The red bridge is a standard Tomix product that is 22 inches long. I may eventually replace it with a 3D printed concrete arch bridge, but It works well for now.

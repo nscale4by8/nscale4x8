@@ -7,11 +7,7 @@ I am loosely modeling the Cleveland Flats from around 1960. I selected the proto
 
 ![Turnout at Lift Bridge](prototypeInspiration/turnoutAtLiftBridge.png)
 
-- [B&O Right of Way Crossing Over Flats Industrial RR Right of Way](prototypeInspiration/BandO_overFlatsIndustrial.png)
-- [Lift Bridges Over and Under](prototypeInspiration/LIftBridgesOverUnder.png)
-- [Curved Approach to Lift Bridge](prototypeInspiration/curveToLiftBridge.png)
-- [Crossing at Approach to Bridge](prototypeInspiration/levelCrossingAtBridge.png)
-- [Multiple Spurs to Industries with Many Grade Level Crossings](prototypeInspiration/industry.png)
+[Images of Prototype](prototypeInspiration/Prototypes.md)
 
 ## Track Plan
 
@@ -55,7 +51,7 @@ Digital Command Control (DCC) is probably great, but it's expensive. I inherited
 
 I use Kato turnouts. They can be manually actuated, or Kato's control switches may be used. The relays in my setup are only needed if you want automatic computer control of the remote turnouts. The relays came is a package of two boards (a total of 16 relays) for $25. I prototyped a system using $0.10 transistors, but I was afraid the remote turnouts' piezoelectric actuators might draw too much current for the transistors. The relays are a safe reliable solution that never gets hot.
 
-Kato turnout actuators use the polarity of the current to determine the direction the points will move. They must only be energized for short periods or the piezoelectric coils may burn out. The Raspberry Pi runs siftware that energizes each turnout actuator for 0.2 seconds. I use one of the four motor controllers on the motor controller hat to supply current in either direction to move the trunout's points. 
+Kato turnout actuators use the polarity of the current to determine the direction the points will move. They must only be energized for short periods or the piezoelectric coils may burn out. The Raspberry Pi runs software that energizes each turnout actuator for 0.2 seconds. I use one of the four motor controllers on the motor controller hat to supply current in either direction to move the turnout's points. 
 
 ![Control](controls/IMG_0125.png)
 
