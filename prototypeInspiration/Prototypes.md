@@ -4,6 +4,10 @@ The Cleveland Flats were once a site of densely packed industries including mult
 
 The Flats were once served by at least four major railroads and a couple of regional ones. With limited rights of way available, the railroads stacked themselves atop each other. The bike trail pictured follows an abandoned Flats Industrial Railroad right of way, and the overpass was a B&O right of way. (I might have that reversed) There was a narrow tributary to the Cuyahoga River up-steam from the Flats where three railroad bridges crossed over each other at different elevations. I haven't yet found a picture online, but old maps show it, and there is a large format aerial pricture of it in the Great Lakes Science Center. Whenever someone says a scene is unrealistic because railroads never built bridges over bridges, tell them about Cleveland.
 
+I highlighted three separate rail lines crossing each other at different elevations.   Green crosses over yellow. Yellow crosses over blue. In teh same area, yellow also has a grade crossing at an interchange yard with blue.
+
+![Three railroads crossing each other at diffferent elevations](ThreeElevationsCrossingOverEachOther.png)
+
 [1937 Aerial Photo Shows ten railroad bridges Over The Cuyahoga River in the Flats](https://upload.wikimedia.org/wikipedia/commons/a/a5/Downtown_Cleveland%2C_Ohio%2C_in_winter%2C_from_the_air%2C_12-1937_-_NARA_-_512842.jpg)
 
 [1892 Map of Cleveland Flats](http://www.clevelandmemory.org/iac/graphics/map1.gif)
