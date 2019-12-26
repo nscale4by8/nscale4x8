@@ -53,6 +53,6 @@ I use Kato turnouts. They can be manually actuated, or Kato's control switches m
 
 Kato turnout actuators use the polarity of the current to determine the direction the points will move. They must only be energized for short periods or the piezoelectric coils may burn out. The Raspberry Pi runs software that energizes each turnout actuator for 0.2 seconds. I use one of the four motor controllers on the motor controller hat to supply current in either direction to move the turnout's points. 
 
-![Control](controls/IMG_0125.png)
+![Control](controls/IMG_0129.jpg)
 
 [Control](controls/Control.md)
