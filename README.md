@@ -59,5 +59,5 @@ Kato turnout actuators use the polarity of the current to determine the directio
 
 ## Scenery
 
-[Control](Scenery/Scenery.md)
+[Scenery](Scenery/Scenery.md)
 
