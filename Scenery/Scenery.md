@@ -16,7 +16,7 @@ The sheet styrene pictured for the road and sidewalk is actually a "For Sale" si
 
 The pictures of the road show a hole and portions of the sign that haven't been painted yet.
 
-Once I'm completely satisfied with the dry fit, I'll guess the retaining walls and road to the benchwork. Then, I'll weather the walls and road, add details like tire-tread marks, cracks in the concrete, etc. Eventually, I will add grass and trees to produce a scene similar to the prototype inspiration.
+Once I'm completely satisfied with the dry fit, I'll glue the retaining walls and road to the benchwork. Then, I'll weather the walls and road, add details like tire-tread marks, cracks in the concrete, etc. Eventually, I'll add grass and trees to produce a scene similar to the prototype inspiration.
 
 ## The Structure Facade Shown
 The pictures also show the beginning of a 3D printed structure modeling a late 19th center cast iron facade. It's still an experiment, but it may end up being used. Here is the prototype inspiration:
