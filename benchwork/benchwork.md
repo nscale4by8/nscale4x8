@@ -26,4 +26,4 @@ The red bridge is a standard Tomix product that is 22 inches long. I may eventua
 ![Image of steel viaduct](IMG_0114.png)
 
 
-[Back](https://github.com/nscale4by8/nscale4x8/blob/master/README.md)
+[Back](https://nscale4by8.github.io/nscale4x8/)
