@@ -20,4 +20,4 @@ The linked aerial photo shows two separate steel mills and countless other rail 
 - [Crossing at Approach to Bridge](levelCrossingAtBridge.png)
 - [Multiple Spurs to Industries with Many Grade Level Crossings](industry.png)
 
-[Back](https://https://nscale4by8.github.io/nscale4x8/README.md)
+[Back](https://nscale4by8.github.io/nscale4x8/)
