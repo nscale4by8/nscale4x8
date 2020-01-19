@@ -9,4 +9,4 @@ Most recent changes:
 ![Image of steel viaduct](./IMG_0130.jpg)
 
 
-[Back](https://github.com/nscale4by8/nscale4x8/blob/master/README.md)
+[Back](https://nscale4by8.github.io/nscale4x8/)
