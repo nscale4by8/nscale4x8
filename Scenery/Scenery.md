@@ -6,7 +6,7 @@ For me, Model Railroading is largely an excuse for building scenery. I enjoy ope
 I started with the concrete retaining walls for the viaduct leading up to the large double track bridge in this general area.
 ![Image of steel viaduct](area00.png)
 
-[Scenery for this section](Scenery/part01/part01.md)
+[Scenery for this section](part01/part01.md)
 
 ## Part 02
 
