@@ -16,13 +16,13 @@ I put aside building and moved on to printing concrete retaining walls. The wall
 
 But, the Hyde building continued to loom in my imagination. After endless printer tweaking, I finally succeeded printing bricks that are only a little oversized for the scale! 
 
-One of the aspects of pre-molded styrene brick sheets that I don't like is the brick pattern: The basic "running bond" pattern where all the bricks are "stretchers", and each brick is staggered half a brick's width from the next row is a modern quirk. The pattern has no strctural integrity and is used solely for decoration. It's a bit like having fake/inoperable shutters on your home - decorative but useless. Structural brick walls have have patterns like the English Bond formed by laying alternate courses of stretchers and headers. The joins between the stretchers are centred on the headers in the course below. English Bond is one of the strongest bonds but requires more facing bricks than other bonds. I decided to model [a version of the Dutch bond](https://en.wikipedia.org/wiki/Brickwork#/media/File:Brickwork_in_english_garden_wall_bond_rake.svg) that is common in the older buidings of the Cleveland flats.
+      One of the aspects of pre-molded styrene brick sheets that I don't like is the brick pattern: The basic "running bond" pattern where all the bricks are "stretchers", and each brick is staggered half a brick's width from the next row is a modern quirk. The pattern has no strctural integrity and is used solely for decoration. It's a bit like having fake/inoperable shutters on your home - decorative but useless. Structural brick walls have have patterns like the English Bond formed by laying alternate courses of stretchers and headers. The joins between the stretchers are centred on the headers in the course below. English Bond is one of the strongest bonds but requires more facing bricks than other bonds. I decided to model [a version of the Dutch bond](https://en.wikipedia.org/wiki/Brickwork#/media/File:Brickwork_in_english_garden_wall_bond_rake.svg) that is common in the older buidings of the Cleveland flats.
 
 Hyde Building Ghost Wall         |   Ghost Wall Detail
 :----------------------------------:|:------------------------:
 ![](A.png)  |  ![](C.png)
 
-I was inspired to model a "ghost wall" from the fantasic example in the [Hudson Terminal N Scale Layout Tour with Chris Brimley](https://www.youtube.com/watch?v=8t9uAx1_Gng) I'm intreagued by indications that structures have a history and have evolved over time and different uses. A ghost wall makes me speculate about the building that was demolished.
+I was inspired to model a "ghost wall" from the fantasic example in the [Hudson Terminal N Scale Layout Tour with Chris Brimley](https://youtu.be/8t9uAx1_Gng?t=705) I'm intreagued by indications that structures have a history and have evolved over time and different uses. A ghost wall makes me speculate about the building that was demolished.
 
 
 ![Back](D.png) ![Side](F.png)
