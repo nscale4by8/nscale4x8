@@ -55,10 +55,11 @@ Kato turnout actuators use the polarity of the current to determine the directio
 ## 3D Printed Custom Bridges
 
 ![Models and Prototype Inspirations](printedModels/Custom3DPrintedModels.png)
-[Models](printedModels/Custom3DPrintedBridges.md)
+[Lift Bridges](printedModels/Custom3DPrintedBridges.md)
 
 ## 3D Printed Custom Structures
 
+![Models and Prototype Inspirations](buildingHyde/Csmall.png)
 [Buildings](buildingHyde/buildingHyde.md)
 
 ## Scenery
