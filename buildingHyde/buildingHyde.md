@@ -35,6 +35,6 @@ Back         |   Other Side
 :----------------------------------:|:----------------------------------:
 ![Back](D.png)  |  ![Side](F.png)
 
-I bricked-up some of the windows and modeled details to the limit of my printer's capabilities.  There is a texture to the loading door. I added miscelaneous mechanical boxes.
+I bricked-up some of the windows and modeled details to the limit of my printer's capabilities.  There is a texture to the loading door. I added miscelaneous mechanical boxes. ![Back](E.png)
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
