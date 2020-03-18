@@ -27,7 +27,7 @@ Ghost Wall         |   Detail
 
 ## Why Not Use Premoulded Brick Sheets?
 
-I don't like is the brick pattern of pre-molded styrene brick sheets. The basic "running bond" pattern where all the bricks are "stretchers", and each brick is staggered half a brick's width from the next row is a modern quirk. The pattern has no structural integrity. It's like inoperable shutters on a home - decorative but useless. Structural brick walls have have alternate courses of stretchers and headers. I decided to model [a version of the Dutch bond](https://en.wikipedia.org/wiki/Brickwork#/media/File:Brickwork_in_english_garden_wall_bond_rake.svg) that is common in the older buildings of the Cleveland flats.
+I don't like is the brick pattern of pre-molded styrene brick sheets. The basic "running bond" pattern where all the bricks are "stretchers", and each brick is staggered half a brick's width from the next row is a modern quirk. The pattern has no structural integrity. It's like inoperable shutters on a home - decorative but useless. Structural brick walls have alternate courses of stretchers and headers. I decided to model [a version of the Dutch bond](https://en.wikipedia.org/wiki/Brickwork#/media/File:Brickwork_in_english_garden_wall_bond_rake.svg) that is common in the older buildings of the Cleveland flats.
 
 ## Other Details 
 
@@ -36,6 +36,6 @@ Back         |   Other Side
 ![Back](D.png)  |  ![Side](F.png)
 ![Back](A_p.png)  |  ![Side](F_p.png)
 
-I bricked-up some of the windows and modeled details to the limit of my printer's capabilities.  There is a texture to the loading door. I added miscelaneous mechanical boxes. ![Back](E.png)
+I bricked-up some of the windows and modeled details to the limit of my printer's capabilities.  There is a texture to the loading door. I added miscellaneous mechanical boxes. ![Back](E.png)
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
