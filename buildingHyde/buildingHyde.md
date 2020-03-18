@@ -17,9 +17,11 @@ I put aside building and moved on to printing concrete retaining walls. The wall
 But, the Hyde building continued to loom in my imagination. After endless printer tweaking, I finally succeeded printing bricks that are only a little oversized for the scale! 
 
 
-Ghost Wall         |   Detail                   |  Description
-:----------------------------------:|:----------------------------------:|:--------------
-![](A.png)  |  ![](C.png) | I don't like is the brick pattern of pre-molded styrene brick sheets. The basic "running bond" pattern where all the bricks are "stretchers", and each brick is staggered half a brick's width from the next row is a modern quirk. The pattern has no structural integrity. It's like inoperable shutters on a home - decorative but useless. Structural brick walls have have alternate courses of stretchers and headers. I decided to model [a version of the Dutch bond](https://en.wikipedia.org/wiki/Brickwork#/media/File:Brickwork_in_english_garden_wall_bond_rake.svg) that is common in the older buildings of the Cleveland flats.
+Ghost Wall         |   Detail                   
+:----------------------------------:|:----------------------------------:
+![](A.png)  |  ![](C.png)
+
+I don't like is the brick pattern of pre-molded styrene brick sheets. The basic "running bond" pattern where all the bricks are "stretchers", and each brick is staggered half a brick's width from the next row is a modern quirk. The pattern has no structural integrity. It's like inoperable shutters on a home - decorative but useless. Structural brick walls have have alternate courses of stretchers and headers. I decided to model [a version of the Dutch bond](https://en.wikipedia.org/wiki/Brickwork#/media/File:Brickwork_in_english_garden_wall_bond_rake.svg) that is common in the older buildings of the Cleveland flats.
 
 
 I was inspired to model a "ghost wall" from the fantasic example in the [Hudson Terminal N Scale Layout Tour with Chris Brimley](https://youtu.be/8t9uAx1_Gng?t=705) I'm intreagued by indications that structures have a history and have evolved over time and different uses. A ghost wall makes me speculate about the building that was demolished.
