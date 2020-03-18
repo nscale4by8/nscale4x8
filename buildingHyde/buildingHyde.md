@@ -20,6 +20,8 @@ Hyde Building Ghost Wall         |   Ghost Wall Detail
 :----------------------------------:|:------------------------:
 ![](A.png)  |  ![](C.png)
 
+I was inspired to model a "ghost wall" from the fantasic example in the [Hudson Terminal N Scale Layout Tour with Chris Brimley](https://www.youtube.com/watch?v=8t9uAx1_Gng)
+
 ![Back](D.png) ![Side](F.png)
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
