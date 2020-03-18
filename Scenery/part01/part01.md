@@ -1,7 +1,7 @@
 # Part 01
 
 I used this prototype inspiration for the viaduct:
-![Image of steel viaduct](bv.png) ![Image of steel viaduct](PENNSYLVANIA_overpass.png)
+![Image of steel viaduct](bv.png) ![Image Concrete Overpass](PENNSYLVANIA_overpass.png)
 
 Here is the first pass dry-fitting the 3D printed parts and the sheet styrene parts:
 ![Image of steel viaduct](IMG_0132.png) ![Image of steel viaduct](IMG_0134.png) ![Image of steel viaduct](IMG_0136.png)
