@@ -12,7 +12,7 @@ Trying something different, I designed interlocking components for reinforced co
 
 I put aside building and moved on to printing concrete retaining walls. The walls are simple, but they are still unique to my layout. I printed varying heights to match the changing grade of the tracks. 
 
-![Retaining Walls](./Scenery/part01/retainingWalls_p.png)
+![Retaining Walls](../Scenery/part01/retainingWalls_p.png)
 
 But, the Hyde building continued to loom in my imagination. After endless printer tweaking, I finally succeeded printing bricks that are only a little oversized for the scale! 
 
