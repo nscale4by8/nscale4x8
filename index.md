@@ -22,11 +22,6 @@ The plan is inspired by the famous [Atlas Granite Gorge & Northern](https://www.
 
 [Plan](plan/Rev8Blocks.pdf)
 
-## 3D Printed Custom Bridges
-
-![Models and Prototype Inspirations](printedModels/Custom3DPrintedModels.png)
-[Models](printedModels/Custom3DPrintedBridges.md)
-
 ## Benchwork Test Fit
 
 The benchwork is currently dry-fit. Nothing is glued down. All of the wiring is in place for four separate electrical blocks. All turnouts are remotely operated by the Control System. I plan to test the layout for a while to assure reliable operation because once the benchwork is glued, it will be very difficult to modify wiring.
@@ -56,6 +51,15 @@ Kato turnout actuators use the polarity of the current to determine the directio
 ![Control](controls/IMG_0129s.png)
 
 [Control](controls/Control.md)
+
+## 3D Printed Custom Bridges
+
+![Models and Prototype Inspirations](printedModels/Custom3DPrintedModels.png)
+[Models](printedModels/Custom3DPrintedBridges.md)
+
+## 3D Printed Custom Structures
+
+[Buildings](buildingHyde/buildingHyde.md)
 
 ## Scenery
 
