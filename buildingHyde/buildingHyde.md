@@ -16,7 +16,8 @@ I put aside building and moved on to printing concrete retaining walls. The wall
 
 But, the Hyde building continued to loom in my imagination. After endless printer tweaking, I finally succeeded printing bricks that are only a little oversized for the scale!
 
-![The Hyde Building Ghost Wall](C.png)
+![The Hyde Building Ghost Wall](C.png) ![The Hyde Building Ghost Wall2](A.png)
 
+![The Hyde Building Ghost Wall](D.png) ![The Hyde Building Ghost Wall2](E.png) ![The Hyde Building Ghost Wall2](F.png)
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
