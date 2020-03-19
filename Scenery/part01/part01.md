@@ -13,6 +13,8 @@ The pictures of the road show a hole and portions of the sign that haven't been 
 
 Once I'm completely satisfied with the dry fit, I'll glue the retaining walls and road to the benchwork. Then, I'll weather the walls and road, add details like tire-tread marks, cracks in the concrete, etc. Eventually, I'll add grass and trees to produce a scene similar to the prototype inspiration.
 
-![Image of steel viaduct](Setting.png)
+![Image Setting](Setting.png)
+
+![Setting](retainingWall_p.png)
 
 [Back](../Scenery.md)
