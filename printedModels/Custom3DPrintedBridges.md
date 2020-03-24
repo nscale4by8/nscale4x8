@@ -11,8 +11,6 @@ I am combining my interests in 3D modeling, 3D printing, and model railroading. 
 ![Image of steel viaduct](Original3DPrintedEarlyDoubleTrackVerticalLiftBridge/EarlyDoubleTrackVerticalLiftBridge.png)
 
 
-[Back](https://github.com/nscale4by8/nscale4x8/blob/master/README.md)
-
 I printed the models myself using PLA plastic filament. I have a Bibo printer which I think is a generic version of of some common design because there are many similar ones on the market.
 
 The printer is advertised as capable of printing 0.4mm wide items and 0.05mm layer heights. When I first started, I used the highest resolution settings thinking they would produce the best results even though simple prints took many hours.
