@@ -63,13 +63,13 @@ Model         |   Printed
 :----------------------------------:|:----------------------------------:
 ![](buildingHyde/Csmall.png)  |  ![](buildingHyde/Csmall_p.png)
 
-[Buildings](buildingHyde/buildingHyde.md)
+[Hyde Building](buildingHyde/buildingHyde.md)
 
 Model         |   Printed                   
 :----------------------------------:|:----------------------------------:
 ![](buildingMiddle/middleBrendered.png) | ![](buildingMiddle/middleBsmall.png)  
 
-[Buildings](buildingMiddle/buildingMiddle.md)
+[Middle Building](buildingMiddle/buildingMiddle.md)
 
 ## Scenery
 
