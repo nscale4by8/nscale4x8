@@ -65,6 +65,12 @@ Model         |   Printed
 
 [Buildings](buildingHyde/buildingHyde.md)
 
+Model         |   Printed                   
+:----------------------------------:|:----------------------------------:
+![](buildingMiddle/middleAsmall.png)  |  ![](buildingMiddle/middleBsmall_p.png)
+
+[Buildings](buildingMiddle/buildingMiddle.md)
+
 ## Scenery
 
 [Scenery](Scenery/Scenery.md)
