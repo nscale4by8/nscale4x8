@@ -67,7 +67,7 @@ Model         |   Printed
 
 Model         |   Printed                   
 :----------------------------------:|:----------------------------------:
-![](buildingMiddle/middleAsmall.png)  |  ![](buildingMiddle/middleBsmall_p.png)
+![](buildingMiddle/middleAsmall.png)  |  ![](buildingMiddle/middleBsmall.png)
 
 [Buildings](buildingMiddle/buildingMiddle.md)
 
