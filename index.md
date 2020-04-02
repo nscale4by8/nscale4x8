@@ -1,7 +1,7 @@
 # N Scale 4x8
 This is a site for information and resources related to my N Scale layout started 2019. The Table of Contents will guide you through brief descriptions of the techniques and approaches used so far.
 
-## [Table of Contents](README.md) [Hyde Building](./README.md)
+## [Table of Contents](./README.md)
 
 ## Gallary
 
