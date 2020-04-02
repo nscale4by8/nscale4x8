@@ -9,8 +9,8 @@ Benchwork Test Fit |  ![Benchwork](toc/tocIMG_0104.png)
 Scenery Part 01 |  ![Image of steel viaduct](toc/tocArea00.png)
 3D Printed Retaining Walls and Underpasses |  ![Setting](toc/tocRetainingWall_p.png)
 Roads and Sidewalks | 
-3D Printed Custom Structures | 
-Electronic Control | [Electronic Control](toc/tocIMG_0129s.png)
+3D Printed Custom Structures | ![](toc/tocHydeBuilding.png)
+Electronic Control | ![Electronic Control](toc/tocIMG_0129s.png)
 
 
 - Prototype Inspiration (Cleveland Flats)
