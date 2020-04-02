@@ -1,7 +1,4 @@
-# nscale4x8
-This repository contains information and resources related to my N Scale layout started 2019.
-
-## ![Table of Contents](https://nscale4by8.github.io/nscale4x8/README.md)
+# ![Table of Contents](https://nscale4by8.github.io/nscale4x8/README.md)
 
 ## Prototype Inspiration
 
