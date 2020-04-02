@@ -21,7 +21,7 @@ Back         |   Other Structures and Rough-in Road
 
 This is the [first section of scenery I have started](../Scenery/part01/part01.md).
 
-![Setting](buildingBlockFrontDownwardStreet.png)![Surroundings](buildingBlockSurroundingsB.png)![More Location Context](buildingBlockSurroundings.png)
+![Surroundings](buildingBlockSurroundingsB.png)![More Location Context](buildingBlockSurroundings.png)
 
 
 

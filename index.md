@@ -71,6 +71,12 @@ Model         |   Printed
 
 [Middle Building](buildingMiddle/buildingMiddle.md)
 
+Model         |   Printed                   
+:----------------------------------:|:----------------------------------:
+![](buildingBlock/B.png) | ![](buildingBlock/buildingBlockFrontC.png)  
+
+[Block Building](buildingBlock/buildingBlock.md)
+
 ## Scenery
 
 [Scenery](Scenery/Scenery.md)
