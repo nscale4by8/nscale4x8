@@ -1,4 +1,7 @@
-# [Table of Contents](./README.md)
+# N Scale 4x8
+This is a site for information and resources related to my N Scale layout started 2019.
+
+## [Table of Contents](./README.md)
 
 ## Prototype Inspiration
 
