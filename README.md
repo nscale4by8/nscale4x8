@@ -1,4 +1,4 @@
-# nscale4x8
+# <p style="text-align: center;">N Scale 4x8</p>
 This is a site for information and resources related to my N Scale layout started 2019.
 
 ## Table of Contents
