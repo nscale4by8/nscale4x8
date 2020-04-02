@@ -1,9 +1,11 @@
 # N Scale 4x8
-This is a site for information and resources related to my N Scale layout started 2019.
+This is a site for information and resources related to my N Scale layout started 2019. The Table of Contents will guide you through brief descriptions of the techniques and approaches used so far.
 
 ## [Table of Contents](./README.md)
 
 ## Gallary
+
+Here are some images found elsewhere on the site. If these pique your curiosity, checkout the Table of Contents.
 
 ![Turnout at Lift Bridge](prototypeInspiration/turnoutAtLiftBridge.png)
 
@@ -19,7 +21,7 @@ This is a site for information and resources related to my N Scale layout starte
 
 ### Hyde Building
 
-The Hyde Building is a classic 1900s cast iron facade multi-purpose buiding remeniscent of the fringes of down town Clevelan at the edges of the Flats.
+The Hyde Building is a classic 1900s cast iron facade multi-purpose building reminiscent of the fringes of down town Cleveland at the edges of the Flats.
 
 Model         |   Printed                   
 :----------------------------------:|:----------------------------------:
