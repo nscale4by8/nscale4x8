@@ -1,6 +1,6 @@
 # Table of Contents
 
-Section         |                      
+Section         | Teaser         
 :-------------------------:|:---------------------------:
 Prototype Inspiration (Cleveland Flats)  |   ![Turnout at Lift Bridge](toc/tocTurnoutAtLiftBridge.png)
 Track Plan (Inspired by Atlas Granite Gorge & Northern)  |  ![Plan](toc/tocRev8s.png)
