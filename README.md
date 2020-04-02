@@ -1,6 +1,6 @@
 # Table of Contents
 
-Section         | Teaser         
+Section         |    | Teaser         
 :-------------------------:|:---:|:---------------------------:
 Prototype (Cleveland Flats) - Densely packed industries ,complex web of rails, grades with over and under passes, level crossings, and multiple lift bridges.  |  |  ![Turnout at Lift Bridge](toc/tocTurnoutAtLiftBridge.png)
 Track Plan - [Atlas Granite Gorge & Northern](https://www.modeltrainforum.com/picture.php?albumid=241&pictureid=2492) |  | ![Plan](toc/tocRev8s.png) adapted it to enable more continuous run variations
