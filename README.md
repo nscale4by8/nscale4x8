@@ -1,4 +1,7 @@
-# Table of Contents
+# nscale4x8
+This is a site for information and resources related to my N Scale layout started 2019.
+
+## Table of Contents
 
 Section         |  Teaser         
 :-------------------------:|:---------------------------:
