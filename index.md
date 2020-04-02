@@ -59,7 +59,11 @@ Kato turnout actuators use the polarity of the current to determine the directio
 
 ## 3D Printed Custom Structures
 
+After lift bridges, I've been designing custom buildings as a start to fill in the urban-industrial scenes of the layout.
+
 ### Hyde Building
+
+The Hyde Building is a classic 1900s cast iron facade multi-purpose buiding remeniscent of the fringes of down town Clevelan at the edges of the Flats.
 
 Model         |   Printed                   
 :----------------------------------:|:----------------------------------:
@@ -69,6 +73,8 @@ Model         |   Printed
 
 ### Middle Building
 
+The Middle Building is a modest structural brick bulding for the middle of the block.
+
 Model         |   Printed                   
 :----------------------------------:|:----------------------------------:
 ![](buildingMiddle/middleBrendered.png) | ![](buildingMiddle/middleBsmall.png)  
@@ -76,6 +82,8 @@ Model         |   Printed
 [Middle Building](buildingMiddle/buildingMiddle.md)
 
 ### Block Building
+
+Odd spaces require special buildings. The Block Building fills a triangular lot backing on the railroad embankment.
 
 Model         |   Printed                   
 :----------------------------------:|:----------------------------------:
