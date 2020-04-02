@@ -8,6 +8,6 @@ Section         |  Teaser
 **3D Printed Bridges** Antique to old to modern lift bridges | ![Models and Prototype Inspirations](toc/tocCustom3DPrintedModels.png)
 **Scenery Part 01** | ![](toc/tocArea00.png) 
  ![Setting](toc/tocRetainingWall_p.png) | 3D Printed Retaining Walls and Underpasses
-![](toc/tocBuildingBlockDownStreet.png) | Roads and Sidewalks
+![](toc/tocBuildingBlockDownStreet.png) | Roads and Sidewalks - Styrene is actually a "For Sale" sign purchased from Wall-mart
 ![](toc/tocHydeBuilding.png) | 3D Printed Custom Structures - Start to fill in the urban-industrial scenes
 **Electronic Control** Raspberry Pi B+ with an add-on "hat" | ![Electronic Control](toc/tocIMG_0129s.png)
