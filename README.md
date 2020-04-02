@@ -1,7 +1,7 @@
 <h1><p style="text-align: center;">N Scale 4x8</p></h1>
 This is a site for information and resources related to my N Scale layout started 2019.
 
-## Table of Contents
+<h2><p style="text-align: center;">Table of Contents</p></h2>
 
 Section         |  Teaser         
 :-------------------------:|:---------------------------:
