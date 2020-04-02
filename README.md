@@ -12,5 +12,5 @@ Section         |  Teaser
 [**Scenery Part 01**](Scenery/Scenery.md) This area contains commercial and industrial buildings and a dense road network with many grade crossings | ![](toc/tocArea00.png) 
  ![Setting](toc/tocRetainingWall_p.png) | 3D Printed Retaining Walls and Underpasses
 ![](toc/tocBuildingBlockDownStreet.png) | Roads and Sidewalks - Styrene is actually a "For Sale" sign purchased from Wall-mart
-![](toc/tocHydeBuilding.png) | 3D Printed Custom Structures - Start to fill in the urban-industrial scenes [Hyde Building](buildingHyde/buildingHyde.md) Middle Building](buildingMiddle/buildingMiddle.md) [Block Building](buildingBlock/buildingBlock.md)
+![](toc/tocHydeBuilding.png) | 3D Printed Custom Structures - Start to fill in the urban-industrial scenes [Hyde Building](buildingHyde/buildingHyde.md) [Middle Building](buildingMiddle/buildingMiddle.md) [Block Building](buildingBlock/buildingBlock.md)
 [**Electronic Control**](controls/Control.md) Raspberry Pi B+ with an add-on "hat" | ![Electronic Control](toc/tocIMG_0129s.png)
