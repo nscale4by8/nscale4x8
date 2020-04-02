@@ -1,6 +1,8 @@
 # nscale4x8
 This repository contains information and resources related to my N Scale layout started 2019.
 
+## ![Table of Contents](https://nscale4by8.github.io/nscale4x8/README.md)
+
 ## Prototype Inspiration
 
 I am loosely modeling the Cleveland Flats from around 1960. I selected the prototype location for the opportunity to model densely packed industries and a complex web of rails. The prototype includes grades with over and under passes, level crossings, and multiple lift bridges.
