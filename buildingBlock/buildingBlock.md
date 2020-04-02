@@ -14,7 +14,14 @@ The Block Building is a five story reinforced concrete structure prototypical of
 
 The building may have been a department store, an office building, a hotel, or even a warehouse. I have chosen to make it a vacant building available for lease. I'll add signage and maybe board up some of the windows.
 
-![Back](buildingBlockBack.png)![Setting](buildingBlockFrontDownwardStreet.png)![Surroundings](buildingBlockSurroundingsB.png)![More Location Context](buildingBlockSurroundings.png)![Test Fit with Other Structures and Rough-in Road](buildingBlockDownStreet.png)
+
+Back         |   Other Structures and Rough-in Road                   
+:----------------------------------:|:----------------------------------:
+![](buildingBlockBack.png)  |  ![](buildingBlockDownStreet.png)
+
+This is the [first section of scenery I have started](../Scenery/part01/part01.md).
+
+![Setting](buildingBlockFrontDownwardStreet.png)![Surroundings](buildingBlockSurroundingsB.png)![More Location Context](buildingBlockSurroundings.png)
 
 
 
