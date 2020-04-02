@@ -7,7 +7,7 @@ Section         |  Teaser
 - Benchwork - dimensional lumber covered with 2 inch medium density foam | ![Benchwork](toc/tocIMG_0104.png)
 - 3D Printed Bridges - Antique to old to modern lift bridges | ![Models and Prototype Inspirations](toc/tocCustom3DPrintedModels.png)
 - Scenery Part 01 | ![](toc/tocArea00.png) 
-![Setting](toc/tocRetainingWall_p.png) |    -  3D Printed Retaining Walls and Underpasses
-![](toc/tocBuildingBlockDownStreet.png) |    - Roads and Sidewalks
-![](toc/tocHydeBuilding.png) |    - 3D Printed Custom Structures - Start to fill in the urban-industrial scenes 
+   -  3D Printed Retaining Walls and Underpasses | ![Setting](toc/tocRetainingWall_p.png)
+   - Roads and Sidewalks | ![](toc/tocBuildingBlockDownStreet.png)
+   - 3D Printed Custom Structures - Start to fill in the urban-industrial scenes | ![](toc/tocHydeBuilding.png)
 - Electronic Control - Raspberry Pi B+ with an add-on "hat" | ![Electronic Control](toc/tocIMG_0129s.png)
