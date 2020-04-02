@@ -19,8 +19,6 @@ The printer is advertised as capable of printing 0.4mm wide items and 0.05mm lay
 
 I discovered that 0.2mm layer heights work best with my printer. They produce the smoothest results. I also discovered that if the print head moves fast enough, it stretches the hot filament and can create thicknesses much less that 0.4mm. Consequently, I usually print with 0.2mm layer heights at about double the default speed. I can produce mullions and other details at about the same sizes as commercial moulded parts. I can print details that are in the neighborhood of 1.4 or 2 scale inches. I typically print with finest details perpendicular to the base. In other words, I print the finest details in the width direction as opposed to the height direction.
 
-I have printed a lot of scale lattes girders, stairs, fire escapes, tension cables, concrete block walls with mortar gaps, cut stone, etc. The gray bridge abutments visible in several pictures are 3D printed cut stone. It's hard to see in the images, but the details are quite fine. There are no two stones that are exactly the same. For concrete block walls, mortar joints are much thinner than 2.4 scale inches. I am able to produce them by printing the outlines of the concrete blocks about 0.2mm apart at double speed and filling them in at normal speed.
-
 ![Bascule Bridge](basculeBridge.png)
 
 ![Double Track Lift Bridge](doubleTrackLiftBridge.png)
@@ -29,7 +27,6 @@ I have printed a lot of scale lattes girders, stairs, fire escapes, tension cabl
 
 ![Steel Viaduct Section](viaductSection.png)
 
-![Warehouse Section](warehouseWindow.png)
-
+I also printed bridge abutments modeling cut stone. The details are quite fine. There are no two stones that are exactly the same.
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
