@@ -59,17 +59,23 @@ Kato turnout actuators use the polarity of the current to determine the directio
 
 ## 3D Printed Custom Structures
 
+### Hyde Building
+
 Model         |   Printed                   
 :----------------------------------:|:----------------------------------:
 ![](buildingHyde/Csmall.png)  |  ![](buildingHyde/Csmall_p.png)
 
 [Hyde Building](buildingHyde/buildingHyde.md)
 
+### Middle Building
+
 Model         |   Printed                   
 :----------------------------------:|:----------------------------------:
 ![](buildingMiddle/middleBrendered.png) | ![](buildingMiddle/middleBsmall.png)  
 
 [Middle Building](buildingMiddle/buildingMiddle.md)
+
+### Block Building
 
 Model         |   Printed                   
 :----------------------------------:|:----------------------------------:
