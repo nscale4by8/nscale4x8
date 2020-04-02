@@ -1,9 +1,13 @@
 # Table of Contents
 
-- Prototype Inspiration
-- Track Plan
+- Prototype Inspiration (Cleveland Flats)
+- Track Plan (Inspired by Atlas Granite Gorge & Northern)
 - Benchwork Test Fit
-- Electronic Control
+- 3D Printed Custom Bridges
+   ![Models and Prototype Inspirations](printedModels/Custom3DPrintedModels.png)
 - Scenery
-   - 3D Printed Custom Bridges
-   - 3D Printed Custom Structures
+   - Part 01
+      - 3D Printed Retaining Walls and Underpasses
+      - Roads and Sidewalks
+      - 3D Printed Custom Structures
+- Electronic Control
