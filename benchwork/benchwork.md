@@ -1,3 +1,11 @@
+# Benchwork and Test Fit
+The benchwork is currently dry-fit. Nothing is glued down. All of the wiring is in place for four separate electrical blocks. All turnouts are remotely operated by the Control System. I plan to test the layout for a while to assure reliable operation because once the benchwork is glued, it will be very difficult to modify wiring.
+
+The benchwork consists of 1x2 dimensional lumber covered with 2 inch medium density foam. Then another quarter inch of foam covers everywhere except the river. Channels are cut in the quarter inch foam to provide routing for bundles of wires. On top of the quarter inch layer, one inch foam "feet" support the lowest track elevations. Feet of various lengths create grades and elevated sections. Pre-primed Masonite rests atop the foam feet. Track will eventually be glued to the Masonite.
+
+![Benchwork](benchwork/IMG_0104.png)
+
+![Benchwork](benchwork/IMG_0110.png)
 
 ![Image of steel viaduct](TransferFullSizePlan.jpg)
 
