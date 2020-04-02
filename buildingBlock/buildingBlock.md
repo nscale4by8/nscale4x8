@@ -19,7 +19,7 @@ Back         |   Other Structures and Rough-in Road
 :----------------------------------:|:----------------------------------:
 ![](buildingBlockBack.png)  |  ![](buildingBlockDownStreet.png)
 
-This is the [first section of scenery I have started](../Scenery/part01/part01.md).
+This is the [first section of scenery I have started](https://nscale4by8.github.io/nscale4x8/Scenery/Scenery.html).
 
 ![Surroundings](buildingBlockSurroundingsB.png)![More Location Context](buildingBlockSurroundings.png)
 
