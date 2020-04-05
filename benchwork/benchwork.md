@@ -3,8 +3,6 @@ The benchwork is shown dry-fit. Nothing is glued down. All of the wiring is in p
 
 ![Benchwork](benchwork/IMG_0104.png)
 
-![Benchwork](benchwork/IMG_0110.png)
-
 The benchwork consists of 1x2 dimensional lumber covered with 2 inch medium density foam. Then another quarter inch of foam covers everywhere except the river. Channels are cut in the quarter inch foam to provide routing for bundles of wires. On top of the quarter inch layer, one inch foam "feet" support the lowest track elevations. Feet of various lengths create grades and elevated sections. Pre-primed Masonite rests atop the foam feet. Track will eventually be glued to the Masonite.
 
 ## The Hardness of Masonite
