@@ -16,7 +16,7 @@ The linked aerial photo shows two separate steel mills and countless other rail 
 
 ## Gallery
 
-![Street View Modern Lift Bridge](Screen Shot 2020-04-27 at 8.19.18 PM.png)
+![Street View Modern Lift Bridge]("Screen Shot 2020-04-27 at 8.19.18 PM.png")
 
 [Aerial View](Screen Shot 2020-04-27 at 8.20.44 PM.png)
 
