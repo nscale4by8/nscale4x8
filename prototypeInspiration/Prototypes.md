@@ -16,7 +16,7 @@ The linked aerial photo shows two separate steel mills and countless other rail 
 
 ## Gallery
 
-![Street View Modern Lift Bridge]("Screen18.png")
+![Street View Modern Lift Bridge](Screen18.png)
 
 [Aerial View](Screen44.png)
 
