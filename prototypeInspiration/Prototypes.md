@@ -16,21 +16,21 @@ The linked aerial photo shows two separate steel mills and countless other rail 
 
 ## Gallery
 
-![Street View Modern Lift Bridge]("Screen Shot 2020-04-27 at 8.19.18 PM.png")
+![Street View Modern Lift Bridge]("Screen18.png")
 
-[Aerial View](Screen Shot 2020-04-27 at 8.20.44 PM.png)
+[Aerial View](Screen44.png)
 
-[Street View Older Lift Bridge](Screen Shot 2020-04-27 at 8.32.43 PM.png)
+[Street View Older Lift Bridge](Screen43a.png)
 
-[Street View Viaduct](Screen Shot 2020-04-27 at 8.50.08 PM.png)
+[Street View Viaduct](Screen08.png)
 
-[Street View Crossing A](Screen Shot 2020-04-27 at 9.13.35 PM.png)
+[Street View Crossing A](Screen35.png)
 
-[Street View Crossing B](Screen Shot 2020-04-27 at 9.15.43 PM.png)
+[Street View Crossing B](Screen43b.png)
 
-[Street View Crossing C](Screen Shot 2020-04-27 at 9.24.43 PM.png)
+[Street View Crossing C](Screen43c.png)
 
-[Street View Crossing D](Screen Shot 2020-04-27 at 9.30.22 PM.png)
+[Street View Crossing D](Screen22.png)
 
 
 ## Other
