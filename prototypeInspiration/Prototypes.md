@@ -18,19 +18,19 @@ The linked aerial photo shows two separate steel mills and countless other rail 
 
 ![Street View Modern Lift Bridge](Screen18.png)
 
-[Aerial View](Screen44.png)
+![Aerial View](Screen44.png)
 
-[Street View Older Lift Bridge](Screen43a.png)
+![Street View Older Lift Bridge](Screen43a.png)
 
-[Street View Viaduct](Screen08.png)
+![Street View Viaduct](Screen08.png)
 
-[Street View Crossing A](Screen35.png)
+![Street View Crossing A](Screen35.png)
 
-[Street View Crossing B](Screen43b.png)
+![Street View Crossing B](Screen43b.png)
 
-[Street View Crossing C](Screen43c.png)
+![Street View Crossing C](Screen43c.png)
 
-[Street View Crossing D](Screen22.png)
+![Street View Crossing D](Screen22.png)
 
 
 ## Other
