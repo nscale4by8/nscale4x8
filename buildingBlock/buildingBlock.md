@@ -2,7 +2,7 @@
 
 ![Front Elevation](buildingBlockFrontA.png)
 
-One of the great things about designing my own buildings is the ability to use odd shapes. I have a triangular space sandwiched between road frontage and an elevated railroad embankment. I've modeled a small alley and loading dock for deliveries and other services. The building has a twin revolving entry doors. I haven't seen that modeled before and think the detail adds novelty.
+One of the great things about designing my own buildings is the ability to use odd shapes. I have a triangular space sandwiched between road frontage and an elevated railroad embankment. I've modeled a small alley and loading dock for deliveries or other services. The building has a twin revolving entry doors. I haven't seen that modeled before and think the detail adds novelty.
 
 Test Fit         |   Loading Dock Detail                   
 :----------------------------------:|:----------------------------------:

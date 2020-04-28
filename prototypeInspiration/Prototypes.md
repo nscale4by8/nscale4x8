@@ -14,6 +14,20 @@ The linked aerial photo shows two separate steel mills and countless other rail 
 
 [1892 Map of Cleveland Flats](http://www.clevelandmemory.org/iac/graphics/map1.gif)
 
+## Gallery
+
+![](Screen Shot 2020-04-27 at 8.19.18 PM.png)
+![](Screen Shot 2020-04-27 at 8.20.44 PM.png)
+![](Screen Shot 2020-04-27 at 8.26.20 PM.png)
+![](Screen Shot 2020-04-27 at 8.32.43 PM.png)
+![](Screen Shot 2020-04-27 at 8.50.08 PM.png)
+![](Screen Shot 2020-04-27 at 9.13.35 PM.png)
+![](Screen Shot 2020-04-27 at 9.15.43 PM.png)
+![](Screen Shot 2020-04-27 at 9.24.43 PM.png)
+![](Screen Shot 2020-04-27 at 9.30.22 PM.png)
+
+## Other
+
 - [B&O Overpass](BandO_overFlatsIndustrial.png)
 - [Lift Bridges Over and Under](LIftBridgesOverUnder.png)
 - [Curved Approach to Lift Bridge](curveToLiftBridge.png)
