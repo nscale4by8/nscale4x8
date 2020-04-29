@@ -1,6 +1,6 @@
-# Downoadable Models
+# Downloadable Models
 
-This folder contains downloadable models. Not all of the modles described at this site are available for others to use (yet). 
+This folder contains downloadable models. Not all of the models described at this site are available for others to use (yet). 
 
 I created the 3D models using the free SketchUp Make 3D modeling software, the free Blender 3D modeling software, and the free Cura 3D printer slicing application.
 
@@ -8,16 +8,16 @@ I created the 3D models using the free SketchUp Make 3D modeling software, the f
 - Blender is the world's most difficult to use software. I'm not exaggerating. It feels like it was designed by people who had never used a graphical user interface before. It is awesomely powerful though. I primarily use it to convert model file formats.
 - Cura is difficult to use until you find the settings that work well for your printer with your filament in your home with your humility and temperature. If any of those variables change, you are back to the drawing board. As long as they stay the same, you can usually print with consistent quality.
 
-It takes **extra** effort for me to make 3D models available to others because instructions are usually needed to get good results, and the instructions/settings I used may not work well for your printer. In addition, many of the more complex models like the bridges and buildings are printed as multiple [sometimes dozzens] separate parts that must be assembled. Assembly can be tricky, and for best results, I probably need to provide detailed step-by-step instructions with illustrations comparable to the instructions that come with commercial kits.
+It takes **extra** effort for me to make 3D models available to others because instructions are usually needed to get good results, and the instructions/settings I used may not work well for your printer. In addition, many of the more complex models like the bridges and buildings are printed as multiple [sometimes dozens] separate parts that must be assembled. Assembly can be tricky, and for best results, I probably need to provide detailed step-by-step instructions with illustrations comparable to the instructions that come with commercial kits.
 
-A really neat company, [Custom Medel Railroads (CMR)](https://www.custommodelrailroads.com/VLB-DT-N.aspx) makes cool laser cut kits. To get a sense of the **extra** work needed for me to provide instructions, check out their instructions for kits. In many cases, the [documents are 20 pages long](http://cmrtrain.com/instructions/LiftBridgeInstructions.pdf) with dozzens of illustrations. Now consider that CMR kits don't require you to print anything. I would need to provide even more information to help you achieve good printing results.
+A really neat company, [Custom Medel Railroads (CMR)](https://www.custommodelrailroads.com/VLB-DT-N.aspx) makes cool laser cut kits. To get a sense of the **extra** work needed for me to provide instructions, check out their instructions for kits. In many cases, the [documents are 20 pages long](http://cmrtrain.com/instructions/LiftBridgeInstructions.pdf) with dozens of illustrations. Now consider that CMR kits don't require you to print anything. I would need to provide even more information to help you achieve good printing results.
 
 ## License
 
-For the purpose of licensing, all models here are considerred "software" and are MIT Licensed. The MIT License permits Commercial use
+For the purpose of licensing, all models here are considered "software" and are MIT Licensed. The MIT License permits Commercial use
 , Modification, Distribution, and Private use.
 
-```MIT LIcense
+```MIT License
 
 Copyright 2020 Erik M. Buck
 
