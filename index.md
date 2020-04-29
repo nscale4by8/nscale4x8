@@ -14,3 +14,5 @@ Section         |  Teaser
 ![](toc/tocBuildingBlockDownStreet.png) | Roads and Sidewalks - Styrene is actually a "For Sale" sign purchased from Wall-mart
 ![](toc/tocHydeBuilding.png) | 3D Printed Custom Structures - Start to fill in the urban-industrial scenes - [Hyde Building](buildingHyde/buildingHyde.md) - [Middle Building](buildingMiddle/buildingMiddle.md) - [Block Building](buildingBlock/buildingBlock.md)
 [**Electronic Control**](controls/Control.md) Raspberry Pi B+ with an add-on "hat" | ![Electronic Control](toc/tocIMG_0129s.png)
+[**Downloadable Models**](downloadableModels/downloadableModels.md) | For the purpose of licensing, all models here are considerred "software" and are MIT Licensed. The MIT License permits Commercial use
+, Modification, Distribution, and Private use.
