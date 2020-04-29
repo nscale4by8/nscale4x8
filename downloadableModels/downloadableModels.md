@@ -10,7 +10,7 @@ I created the 3D models using the free SketchUp Make 2017 3D modeling software, 
 
 It takes **extra** effort for me to make 3D models available to others because instructions are usually needed to get good results, and the instructions/settings I used may not work well for your printer. In addition, many of the more complex models like the bridges and buildings are printed as multiple [sometimes dozens] separate parts that must be assembled. Assembly can be tricky, and for best results, I probably need to provide detailed step-by-step instructions with illustrations comparable to the instructions that come with commercial kits.
 
-A really neat company, [Custom Medel Railroads (CMR)](https://www.custommodelrailroads.com/VLB-DT-N.aspx) makes cool laser cut kits. To get a sense of the **extra** work needed for me to provide instructions, check out their instructions for kits. In many cases, the [documents are 20 pages long](http://cmrtrain.com/instructions/LiftBridgeInstructions.pdf) with dozens of illustrations. Now consider that CMR kits don't require you to print anything. I would need to provide even more information to help you achieve good printing results.
+A really neat company, [Custom Medel Railroads (CMR)](https://www.custommodelrailroads.com/VLB-DT-N.aspx), makes cool laser cut acrylic kits. To get a sense of the **extra** work needed for me to provide instructions, check out their instructions for kits. In many cases, the [documents are 20 pages long](http://cmrtrain.com/instructions/LiftBridgeInstructions.pdf) with dozens of illustrations. Now consider that CMR kits don't require you to print anything. I would need to provide even more information to help you achieve good printing results.
 
 ## License
 
