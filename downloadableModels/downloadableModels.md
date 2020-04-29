@@ -4,7 +4,7 @@ This folder contains downloadable models. Not all of the models described at thi
 
 I created the 3D models using the free SketchUp Make 2017 3D modeling software, the free Blender 3D modeling software, and the free Cura 3D printer slicing application.
 
-- Almost all work is done in SketchUp Make 2017. Get it at https://www.sketchup.com/download/all. You may need to create a free account at the site to access the downloads. SketchUp Make is easy to learn by following online tutorials. It just takes lots of practice and experimentation.
+- Almost all work is done in SketchUp Make 2017. Get it at [https://www.sketchup.com/download/all](https://www.sketchup.com/download/all). You may need to create a free account at the site to access the downloads. SketchUp Make is easy to learn by following online tutorials. It just takes lots of practice and experimentation.
 - [Blender](https://www.blender.org) is the world's most difficult to use software. I'm not exaggerating. It feels like it was designed by people who had never used a graphical user interface before. It is awesomely powerful though. I primarily use it to convert model file formats.
 - [Cura](https://ultimaker.com/software/ultimaker-cura) is difficult to use until you find the settings that work well for your printer with your filament in your home with your humility and temperature. If any of those variables change, you are back to the drawing board. As long as they stay the same, you can print with consistent quality.
 
