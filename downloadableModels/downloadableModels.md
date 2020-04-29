@@ -30,6 +30,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Models
 
-Section         |  Models         
-:-------------------------:|:---------------------------:
-[Bridge Ties](bridgeTiesForKatoRails/readme.md) | [Straight Bridge Ties](bridgeTiesForKatoRails/SB_3lengths_p.stl) [13.75 in. Radius Bridge Ties](bridgeTiesForKatoRails/R13.75B_p.stl)
+- [Bridge Ties](bridgeTiesForKatoRails/readme.md)

@@ -5,3 +5,8 @@ These models include guard rails and spikes compatible with Kato N Scale rail pr
 I printed these models using PLA 1.75mm filament at 200C with 0.4mm nozzle and 0.1mm layer heights. PLA is just soft enough to flex slightly as you insert rails through spikes but rigid enough to hold rails at the proper guage. 
 
 *You will almost certainly need to experiment with your printer settings to achieve satsifactory prints.*
+
+---------------
+
+- [Straight Bridge Ties](bridgeTiesForKatoRails/SB_3lengths_p.stl) 
+- [13.75 in. Radius Bridge Ties](bridgeTiesForKatoRails/R13.75B_p.stl)
