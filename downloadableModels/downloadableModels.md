@@ -30,4 +30,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Models
 
-- [Bridge Ties](bridgeTiesForKatoRails/readme.md)
+- [Bridge Ties](downloadableModels/downloadableModels.md)
+
+
+[Back](https://nscale4by8.github.io/nscale4x8/)
