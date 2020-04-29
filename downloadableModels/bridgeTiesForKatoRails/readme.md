@@ -8,5 +8,5 @@ I printed these models using PLA 1.75mm filament at 200C with 0.4mm nozzle and 0
 
 ---------------
 
-- [Straight Bridge Ties](bridgeTiesForKatoRails/SB_3lengths_p.stl) 
-- [13.75 in. Radius Bridge Ties](bridgeTiesForKatoRails/R13.75B_p.stl)
+- [Straight Bridge Ties](SB_3lengths_p.stl) 
+- [13.75 in. Radius Bridge Ties](R13.75B_p.stl)
