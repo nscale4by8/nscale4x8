@@ -47,7 +47,7 @@ The linked aerial photo shows two separate steel mills and countless other rail 
 - [The One and Only Remaining Flats Industrial Railroad Locomotive](http://realneo.us/system/files/Flats-Industrial-Rail-Road.jpg)
 - [Closeup of Modern Lift Bridge](https://c1.staticflickr.com/9/8173/8040733854_2b77d84eca_b.jpg)
 - [Another Closeup of Modern Lift Bridge](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive.staticflickr.com%2F8170%2F8040718065_28681ccf6c_b.jpg&f=1&nofb=1)
-[Flour Mill Served by Flats Industrial Railroad](https://www.railpictures.net/images/d1/6/1/0/5610.1294085833.jpg)
+- [Flour Mill Served by Flats Industrial Railroad](https://www.railpictures.net/images/d1/6/1/0/5610.1294085833.jpg)
 
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
