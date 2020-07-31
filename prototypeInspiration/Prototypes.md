@@ -35,10 +35,19 @@ The linked aerial photo shows two separate steel mills and countless other rail 
 
 ## Other
 
-- [B&O Overpass](BandO_overFlatsIndustrial.png)
 - [Lift Bridges Over and Under](LIftBridgesOverUnder.png)
 - [Curved Approach to Lift Bridge](curveToLiftBridge.png)
 - [Crossing at Approach to Bridge](levelCrossingAtBridge.png)
 - [Multiple Spurs to Industries with Many Grade Level Crossings](industry.png)
+- [B&O Overpass](BandO_overFlatsIndustrial.png)
+
+## Links to Other Sites
+
+- [Near Modern Lift Bridge](https://i.ytimg.com/vi/U1wmsSfkw0M/hqdefault.jpg)
+- [The One and Only Remaining Flats Industrial Railroad Locomotive](http://realneo.us/system/files/Flats-Industrial-Rail-Road.jpg)
+- [Closeup of Modern Lift Bridge](https://c1.staticflickr.com/9/8173/8040733854_2b77d84eca_b.jpg)
+- [Another Closeup of Modern Lift Bridge](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive.staticflickr.com%2F8170%2F8040718065_28681ccf6c_b.jpg&f=1&nofb=1)
+[Flour Mill Served by Flats Industrial Railroad](https://www.railpictures.net/images/d1/6/1/0/5610.1294085833.jpg)
+
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
