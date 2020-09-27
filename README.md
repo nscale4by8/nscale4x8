@@ -48,3 +48,13 @@ Model         |   Printed
 ![](buildingBlock/B.png) | ![](buildingBlock/buildingBlockFrontC.png)  
 
 [Block Building](buildingBlock/buildingBlock.md)
+
+### The Cleveland Twist Drill Co.
+
+This amalgamation of multiple prototypes provides another indusrty to be serviced.
+
+Model         |   Printed                   
+:----------------------------------:|:----------------------------------:
+![](buildingBlock/B.png) | ![](buildingBlock/buildingBlockFrontC.png)  
+
+[Block Building](buildingBlock/buildingBlock.md)
