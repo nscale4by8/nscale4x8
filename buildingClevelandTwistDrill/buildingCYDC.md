@@ -10,6 +10,7 @@ The large sign, 60 scale feet wide, was a fun detail added at the end.
 
 # Other Details 
                   
+Details |   Side s                  
 :----------------------------------:|:----------------------------------:
 ![](ctdc00.png)  |  ![](ctdc06.png) 
 ![](ctdc02.png)  |  ![](ctdc03.png)
