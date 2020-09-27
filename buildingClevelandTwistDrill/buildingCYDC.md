@@ -16,6 +16,6 @@ Details |   Setting
 ![](ctdc02.png)  |  ![](ctdc03.png)
 ![](ctdc04.png)  |  ![](ctdc05.png)
 
-While designing this structure, I refined a system for securely and accurately joining walls using tabs and slots. The printed parts have dimensions reliably accurate to 0.2mm. The printed parts all fit  with interlocking elements that are snug. The buildings hold together without glue for a while, and even the windows stay in place without glue during assembly. I expect to use this design system for future building models.
+While designing this structure, I refined a system for securely and accurately joining walls using tabs and slots. The printed parts have dimensions reliably accurate to 0.02mm. The printed parts fit  with interlocking elements that are snug. The buildings hold together without glue for a while, and even the windows stay in place without glue during assembly. I expect to use this design system for future building models.
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
