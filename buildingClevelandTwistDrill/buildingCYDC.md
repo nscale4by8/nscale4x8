@@ -9,13 +9,11 @@ The walls are almost 3mm thick, but the insides of the walls are filler that is 
 The large sign, 60 scale feet wide, was a fun detail added at the end.
 
 # Other Details 
-
-Back         |   Other Side                   
+                  
 :----------------------------------:|:----------------------------------:
-![](ctdc00.png)  |  ![](ctdc01.png)
+![](ctdc00.png)  |  ![](ctdc06.png) 
 ![](ctdc02.png)  |  ![](ctdc03.png)
 ![](ctdc04.png)  |  ![](ctdc05.png)
-![](ctdc06.png)  |  
 
 While designing this structure, I refined a system for securely and accurately joining walls using tabs and slots. The printed parts have dimensions reliably accurate to 0.2mm. The printed parts all fit  with interlocking elements that are snug. The buildings hold together without glue for a while, and even the windows stay in place without glue during assembly. I expect to use this design system for future building models.
 
