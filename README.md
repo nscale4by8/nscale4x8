@@ -19,6 +19,16 @@ Here are some images found elsewhere on the site. If these pique your curiosity,
 
 ![Models and Prototype Inspirations](printedModels/Custom3DPrintedModels.png)
 
+### The Cleveland Twist Drill Co.
+
+This amalgamation of multiple prototypes provides another indusrty to be serviced.
+
+Model         |   Printed                   
+:----------------------------------:|:----------------------------------:
+![](buildingClevelandTwistDrill/render.png)  | ![](buildingClevelandTwistDrill/ctdc00.png) 
+
+[The Cleveland Twist Drill Co.](buildingClevelandTwistDrill/buildingCYDC.md)
+
 ### Hyde Building
 
 The Hyde Building is a classic 1900s cast iron facade multi-purpose building reminiscent of the fringes of down town Cleveland at the edges of the Flats.
@@ -48,13 +58,3 @@ Model         |   Printed
 ![](buildingBlock/B.png) | ![](buildingBlock/buildingBlockFrontC.png)  
 
 [Block Building](buildingBlock/buildingBlock.md)
-
-### The Cleveland Twist Drill Co.
-
-This amalgamation of multiple prototypes provides another indusrty to be serviced.
-
-Model         |   Printed                   
-:----------------------------------:|:----------------------------------:
-![](buildingClevelandTwistDrill/render.png)  | ![](buildingClevelandTwistDrill/ctdc00.png) 
-
-[The Cleveland Twist Drill Co.](buildingClevelandTwistDrill/buildingCYDC.md)
