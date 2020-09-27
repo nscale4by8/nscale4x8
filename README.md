@@ -57,4 +57,4 @@ Model         |   Printed
 :----------------------------------:|:----------------------------------:
 ![](buildingClevelandTwistDrill/render.png)  | ![](buildingClevelandTwistDrill/ctdc00.png) 
 
-[Block Building](buildingClevelandTwistDrill/buildingCYDC.md)
+[The Cleveland Twist Drill Co.](buildingClevelandTwistDrill/buildingCYDC.md)
