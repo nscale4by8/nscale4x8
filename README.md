@@ -55,6 +55,6 @@ This amalgamation of multiple prototypes provides another indusrty to be service
 
 Model         |   Printed                   
 :----------------------------------:|:----------------------------------:
-![](buildingBlock/B.png) | ![](buildingBlock/buildingBlockFrontC.png)  
+![](buildingBlock/buildingBlockFrontC.png)  | ![](buildingClevelandTwistDrill/ctdc00.png) 
 
-[Block Building](buildingBlock/buildingBlock.md)
+[Block Building](buildingClevelandTwistDrill/buildingCYDC.md)
