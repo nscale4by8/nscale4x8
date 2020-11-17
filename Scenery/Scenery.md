@@ -9,5 +9,9 @@ I started with the concrete retaining walls for the viaduct leading up to the la
 [Scenery for this section](part01/part01.md)
 
 ## Part 02
+This area has a "cut" for the double track main line through sedimentary rock. Most of the layout is city-scaped featuring cats concrete, briks, steel, and asphalt. This section lets a little bit of nature peek through.
+![Image of steel viaduct](area01.png)
+
+[Scenery for this section](part02/part02.md)
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
