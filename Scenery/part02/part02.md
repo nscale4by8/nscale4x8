@@ -2,7 +2,7 @@
 
 I used these prototype inspirations:
 
-Prototype         |                      
+Prototype         |        Prototype              
 :----------------------------------:|:----------------------------------:
 ![road above railroad tracks](iu-4.jpeg)  |  ![road above railroad tracks](iu-2.jpeg) 
 ![cut](iu-3.jpeg) |  ![cut](iu.jpeg)
