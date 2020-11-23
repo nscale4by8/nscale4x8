@@ -2,10 +2,12 @@
 
 I used these prototype inspirations:
 
-![retaining wall for road above railroad tracks](iu-4.jpeg) 
-![retaining wall for road above railroad tracks](iu-2.jpeg) 
-![cut](iu-3.jpeg)
-![cut](iu.jpeg)
+Prototype         |                      
+:----------------------------------:|:----------------------------------:
+![road above railroad tracks](iu-4.jpeg)  |  ![road above railroad tracks](iu-2.jpeg) 
+![cut](iu-3.jpeg) |  ![cut](iu.jpeg)
+
+
 
 ## Scenery in progress...
 
