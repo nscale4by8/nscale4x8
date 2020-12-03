@@ -4,13 +4,15 @@ As I fill in my model of the Cleveland Flats industrial area circa 1970, I look 
 
 This large model was printed in many parts over several days with half a dozen failed prints along the way. The larger the print, the more likely there will be unacceptable printing defects. Unlike the previous buildings I've modeled, I printed and painted the windows separate from the walls. There are a LOT of windows, and almost every one needed touchup with an hobby knife to clean away "strings" and "blobs" that occur in the first few layers of each print. The windows only have a few layers.
 
+![](ctdc00.png)
+
 The walls are almost 3mm thick, but the insides of the walls are filler that is mostly air. Making the walls thick provides a large surface area for gluing. The walls also tend to be square without gaps at glue joints because of the extra thickness. The building is 8 floors tall, but my printer's build plate only has room to print seven floors at a time. The eighth floor walls are printed separately and use a brick detail to hide any seams at the glue joint with the lower wall.
 
 The large sign, 60 scale feet wide, was a fun detail added at the end.
 
 # Other Details 
                   
-![](ctdc00.png)<br />![](ctdc06.png) <br />![](ctdc02.png) <br />![](ctdc03.png)<br />![](ctdc04.png)<br /> ![](ctdc05.png)
+![](ctdc06.png) <br />![](ctdc02.png) <br />![](ctdc03.png)<br />![](ctdc04.png)<br /> ![](ctdc05.png)
 
 While designing this structure, I refined a system for securely and accurately joining walls using tabs and slots. The printed parts have dimensions reliably accurate to 0.02mm. The printed parts fit  with interlocking elements that are snug. The buildings hold together without glue for a while, and even the windows stay in place without glue during assembly. I expect to use this design system for future building models.
 
