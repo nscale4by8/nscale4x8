@@ -10,11 +10,7 @@ The large sign, 60 scale feet wide, was a fun detail added at the end.
 
 # Other Details 
                   
-Details |   Setting                  
-:----------------------------------:|:----------------------------------:
-![](ctdc00.png)  |  ![](ctdc06.png) 
-![](ctdc02.png)  |  ![](ctdc03.png)
-![](ctdc04.png)  |  ![](ctdc05.png)
+![](ctdc00.png)<br />![](ctdc06.png) <br />![](ctdc02.png) <br />![](ctdc03.png)<br />![](ctdc04.png)<br /> ![](ctdc05.png)
 
 While designing this structure, I refined a system for securely and accurately joining walls using tabs and slots. The printed parts have dimensions reliably accurate to 0.02mm. The printed parts fit  with interlocking elements that are snug. The buildings hold together without glue for a while, and even the windows stay in place without glue during assembly. I expect to use this design system for future building models.
 
