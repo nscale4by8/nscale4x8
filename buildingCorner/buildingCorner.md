@@ -33,6 +33,6 @@ I chose the following prototype to inspire my design for the "Corner Building":
 
 I consider the first print a draft. As I write this, a second 8 hour long print is in progress.
 
-![Draft print](buildingCornerDraft00.png)
+![Draft print](buildingCornerDraft01.png)
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
