@@ -22,7 +22,7 @@ I revised my scenery plan to incorporate two coverred cuts, but the new plan has
 
 With two of the four parallel tracks hidden from view, I need roads, railings, and structures to fill the area above the tracks. I decied to design structure models and 3D print them. It's an opportunity for a few more "focal point" scenes along with teh 3D printed lift bridges and the large commercial buildings already designed and printed.
 
-I chose the following prototype to inspire my design for the "Corner Building":
+For the first of the new structures, I chose the following prototype to inspire my design for the "Corner Building":
 
 ![Prototype Inspiration](PrototypeCornerBuilding.png)
 
