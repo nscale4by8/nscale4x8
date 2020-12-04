@@ -12,7 +12,7 @@ This structure was trivial to design and 3D print. It looks out of scale to my e
 
 I also designed and printed a overhead crane for transferring cargo between the work yard and rail cars. I'll eventually fill the work yard with crates, rolled steel coils, scrap metal, etc. I'll add fencing around the work yard, weather the concrete, etc.
 
-![](overheadCrane01.jpeg) ![](buildingFoundryOverheadCrane.png)
+![](overheadCrane01.jpeg) ![](buildingFoundryOverheadCraneSmall.png)
 
 ## Why Unicorn?
 
