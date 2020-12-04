@@ -13,18 +13,18 @@ Prototype         |        Prototype
 
 ### Roughly sculpted foam
 
-![IA](IMG_0412.png)
-![IA](IMG_0415.png)
-![IA](IMG_0416.png)
-![IA](IMG_0420.png)
+![](IMG_0412.png)
+![](IMG_0415.png)
+![](IMG_0416.png)
+![](IMG_0420.png)
 
 ### 3d printed railings on overpass, plaster, painted but not weathered
 
-![IA](IMG_0442.png)
-![IA](IMG_0440.png)
-![IA](IMG_0438.png)
-![IA](IMG_0436.png)
-![IA](IMG_0432.png)
+![](IMG_0442.png)
+![](IMG_0440.png)
+![](IMG_0438.png)
+![](IMG_0436.png)
+![](IMG_0432.png)
 
 Before         |   After                   
 :----------------------------------:|:----------------------------------:
@@ -34,5 +34,7 @@ Before         |   After
 ![](IMG_0422.png)  |  ![](IMG_0484small.png)
 ![](IMG_0415.png)  |  ![](IMG_0483small.png)
 
+![](IMG_0481.png)
+![](IMG_0480.png)
 
 [Back](../Scenery.md)
