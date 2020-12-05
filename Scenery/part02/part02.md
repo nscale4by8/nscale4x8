@@ -31,7 +31,6 @@ Before         |   After
 ![](IMG_0420.png)  |  ![](IMG_0484small.png)
 ![](IMG_0422.png)  |  ![](IMG_0434small.png)
 ![](IMG_0422.png)  |  ![](IMG_0444small.png)
-![](IMG_0422.png)  |  ![](IMG_0484small.png)
 ![](IMG_0415.png)  |  ![](IMG_0483small.png)
 
 ![](IMG_0481.png)
