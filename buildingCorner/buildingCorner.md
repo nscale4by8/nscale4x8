@@ -33,7 +33,7 @@ For the first of the new structures, I chose the following prototype to inspire 
 
 I consider the first print a draft. As I write this, a second 8 hour long print is in progress.
 
-Draft print - prototype color scheme  |   Draft print if greige color scheme                   
+Draft print - prototype color scheme  |   Draft print - greige color scheme                   
 :----------------------------------:|:----------------------------------:
 ![Draft print with color scheme similar to prototype](buildingCornerAltColor.png)  | ![Draft print if greige color scheme](buildingCornerDraft01.png) 
 
