@@ -35,7 +35,7 @@ I consider the first print a draft. As I write this, a second 8 hour long print 
 
 Draft print - prototype color scheme  |   Draft print if greige color scheme                   
 :----------------------------------:|:----------------------------------:
-![Draft print with color scheme similar to prototype](buildingClevelandTwistDrill/render.png)  | ![Draft print if greige color scheme](buildingClevelandTwistDrill/ctdc00.png) 
+![Draft print with color scheme similar to prototype](buildingCornerAltColor.png)  | ![Draft print if greige color scheme](buildingCornerDraft01.png) 
 
 ## Details about the printing
 
