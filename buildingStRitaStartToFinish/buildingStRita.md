@@ -22,8 +22,11 @@ There are lots of tips and tricks for creating printable models. A few of the mo
 
 There are four model components for the St. Rita structure:
 
+Section         |  Section         
+:-------------------------:|:---------------------------:
+
 Middle floors         |   Ground Floor  |   Roof |  Windows & Doors                 
-:----------------------------------:|:----------------------------------:
+:------------------------:|:------------------------:|:------------------------:|:------------------------:
 ![](ModelPartA.png)  |  ![](ModelPartB.png) |  ![](ModelPartC.png) |  ![](ModelPartD.png)
 
 ## Printing
