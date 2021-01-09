@@ -15,8 +15,8 @@ SketchUP Make is easy to learn and well suited for architectural style models. I
 
 There are lots of tips and tricks for creating printable models. A few of the most critical model features are 
 
-- Don't create any relief components that are narrower or shallower than you printer's extruder nozzle and layer depth. In my case, the nozzle is 0.4mm, and I can print with layer thicknesses from 0.05mm to 0.4mm. I make sure every feature that "sticks out" is at least 0.41mm wide. **Note:** recessed model features like mortar between bricks can be much smaller that the print nozzle. The positional accuracy of my printer's print head is approximately 0.005mm.
-- 3D models need to be "sliced" into layers to be printed. I use the free Utilimaker Cura program to slice models. There is a brief animation of the slicing [here](SlicerAnimation_s.m4v). Most slicer programs require models to be "manifold". Imagine that your model's walls are hollow, and you pour water into the walls. If the water could get everywhere inside the model without leaking out, the model is manifold. Making SketchUP models manifold can be labor intensive.
+- Don't create any relief components that are narrower or shallower than you printer's extruder nozzle and layer depth. In my case, the nozzle is 0.4mm, and I can print with layer thicknesses from 0.05mm to 0.4mm. I make sure every feature that "sticks out" is at least 0.41mm wide. **Note:** recessed model features like mortar between bricks can be much smaller than the print nozzle. The positional accuracy of my printer's print head is approximately 0.005mm.
+- 3D models need to be "sliced" into layers to be printed. I use the free Utilimaker Cura program to slice models. There is a brief animation of the slicing [here](SlicerAnimation_s.m4v). Most slicer programs require models to be "manifold". Imagine your model's walls are hollow, and you pour water into the walls. If the water could get everywhere inside the model without leaking out, the model is manifold. Making SketchUP models manifold can be labor intensive.
 - Plan your model to print as several components that will be assembled and painted after printing. One reason is to make "overhangs" look nice. My printer does a good job of printing overhanging parts where the printer ends up extruding plastic over nothing but air. Nevertheless, the best looking flat surfaces you can print are the surfaces printed flat against the printer's build plate. You can see the four separate component models for the St. Rita structure below. Another reason is to limit the wasted time and plastic when something goes wrong during a print. If your model takes 10 hours to print (like the full St. Rita structure), a problem that occurs 9 hours into the print can ruin 9 hours of printing. If each print session is 3 to 4 hours or less, the worst case will be wasting 3 or 4 hours.
 - Make sure there is enough surface area for glue joints. When joining separate components, the greater the surface area of the joint, the stronger the finished model will be. With that in mind, it's still possible to have tiny details like hand railings that are glued, but the result will be delicate/fragile. I can print parts that interlock with such dimensional accuracy and tight tolerances that glue isn't always necessary, but I use glue anyway.
 
@@ -62,8 +62,11 @@ I use black India ink diluted with water to weather almost all of my models. The
 Assembly is simple and goes fast once paint has dried. The windows fit snugly snapping into place and don't require glue to stay in place, but I glue them anyway.
 
 ![Assembled Structure](assembledStructure.png)
+
 ![Assembled Structure](assembledStructure_b.png)
+
 ![Assembled Structure](assembledStructure_c.png)
+
 ![Assembled Structure](assembledStructure_d.png)
 
 
