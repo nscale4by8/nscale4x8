@@ -1,6 +1,8 @@
 # N Scale 4x8
 This is a site for information and resources related to my N Scale layout started 2019.
 
+![Cover](1.png)
+
 ## Table of Contents
 
 Section         |  Section         
