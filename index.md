@@ -5,7 +5,7 @@ This is a site for information and resources related to my N Scale layout starte
 
 ## Table of Contents
 
-Section         |  Section         
+ Section                   | Section         
 :-------------------------:|:---------------------------:
 [**Prototype (Cleveland Flats)**](prototypeInspiration/Prototypes.md) Densely packed industries ,complex web of rails, grades with over and under passes, level crossings, and multiple lift bridges.  ![Turnout at Lift Bridge](toc/tocTurnoutAtLiftBridge.png) | [**Track Plan**](plan/plan.md)  Adapted from [Atlas Granite Gorge & Northern](https://www.modeltrainforum.com/picture.php?albumid=241&pictureid=2492) to enable more continuous run variations ![Plan](toc/tocRev8s.png)
 [**3D Printed Bridges**](printedModels/Custom3DPrintedBridges.md) Original 3D models of various kinds of lift bridge and viaducts  ![Models and Prototype Inspirations](toc/tocCustom3DPrintedModels.png) | [**Scenery**](Scenery/Scenery.md) Construction of various sections of scenery ranging from industrial structures to cuts through sedimentary rock to overpasses 
