@@ -1,14 +1,14 @@
 <head>
 <h1 align="center" style="margin-top: 0px;">N Scale 4x8</h1>
-</head>
 
 <p align="center" style="margin-bottom: 0px !important;">
  <img width="800" src="./1.png" alt="adf" align="center"> 
 </p>
 <p align="center" style="margin-top: 0px;">New N Scale layout started 2019 - by Erik M. Buck</p>
+</head>
 
 
-| <h2>Table of Contents</h2> |                                                                                               |
+| Table of Contents.         |                                                                                               |
 |----------------------------|-----------------------------------------------------------------------------------------------|
 | [**Prototype (Cleveland Flats)**](prototypeInspiration/Prototypes.md) <br /> Densely packed industries, complex web of rails, grades with over and under passes, level crossings, and multiple lift bridges. | ![Turnout at Lift Bridge](toc/tocTurnoutAtLiftBridge.png)
 | [**Track Plan**](plan/plan.md) Adapted from <br /> [Atlas Granite Gorge & Northern](https://www.modeltrainforum.com/picture.php?albumid=241&pictureid=2492) to enable more continuous run variations | ![Plan](toc/tocRev8s.png)
