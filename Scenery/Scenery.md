@@ -1,6 +1,6 @@
 # Scenery
 
-For me, Model Railroading is largely an excuse for building scenery. I enjoy operating trains, but 3D modeling and scenery are my favorites aspects of the hobby. To a certain extent, everything I've done so far from sawing and glueing wood to researching the prototype to wiring has been preparation for scenery construction. I paint portraits, I write textbooks, I design and implement software, and lately, I model railroads. These are all outlets for creative expression.
+For me, Model Railroading is largely an excuse for building scenery. I enjoy operating trains, but 3D modeling and scenery are my favorite aspects of the hobby. To a certain extent, everything I've done so far from sawing and glueing wood to researching the prototype to wiring has been preparation for scenery construction. I paint portraits, I write textbooks, I design and implement software, and lately, I model railroads. These are all outlets for creative expression.
 
 ## Part 01
 I started with the concrete retaining walls for the viaduct leading up to the large double track bridge in this general area.
