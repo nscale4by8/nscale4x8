@@ -23,5 +23,9 @@ This is the [first section of scenery I have started](https://nscale4by8.github.
 
 ![Surroundings](buildingBlockSurroundingsB.png)![More Location Context](buildingBlockSurroundings.png)
 
+## Prototype Inspiration
+
+![protoA](protoA.png)
+![protoB](protoB.png)
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
