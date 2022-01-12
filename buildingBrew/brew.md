@@ -5,7 +5,7 @@
 While modeling the Cleveland Flats, I searched the Internet for interesting old buildings when I stumbled upon the Tennessee Brewery in Memphis TN.
 
 Prototype        |   Model                   
-:----------------------------------:|:----------------------------------:
+:---------------:|:----------------------------------:
 ![](protoCornerElevation.jpeg)  |  ![](IMG_0674.png)
 ![](protoFrontElevation4.jpeg)  |  ![](IMG_0679.png)
 
