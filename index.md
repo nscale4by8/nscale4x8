@@ -2,7 +2,7 @@
 <h1 align="center" style="margin-top: 0px;">N Scale 4x8</h1>
 
 <p align="center" style="margin-bottom: 0px !important;">
- <img width="800" src="./1.png" alt="adf" align="center"> 
+ <img width="800" src="./buildingBrew/IMG_0674.png" alt="adf" align="center"> 
 </p>
 <p align="center" style="margin-top: 0px;">New N Scale layout started 2019 - by Erik M. Buck</p>
 </head>
@@ -15,7 +15,7 @@
 | [**Benchwork**](benchwork/benchwork.md) dimensional lumber covered with 2 inch medium density foam | ![Benchwork](toc/tocIMG_0104.png)
 | [**3D Printed Bridges**](printedModels/Custom3DPrintedBridges.md) Original 3D models of various kinds <br /> of lift bridge and viaducts <br /> ![Models and Prototype Inspirations](toc/tocCustom3DPrintedModels.png) | ![](closeUpPrintedGirder.png)
 [**Electronic Control**](controls/Control.md) Raspberry Pi B+ with an add-on "hat" | ![Electronic Control](toc/tocIMG_0129s.png)
-| 3D Printed Custom Structures - urban-industrial scenes <br /> [Hyde Building](buildingHyde/buildingHyde.md) <br /> [Middle Building](buildingMiddle/buildingMiddle.md) <br /> [Block Building](buildingBlock/buildingBlock.md) <br /> [The Cleveland Twist Drill Co.](buildingClevelandTwistDrill/buildingCYDC.md) <br /> [The Corner Building](buildingCorner/buildingCorner.md) <br /> [Unicorn Foundry](buildingFoundry/buildingFoundry.md) <br /> ![](buildingCorner/buildingCornerAltColor_small.png) | ![](toc/tocDownStreetClose.png) ![](buildingClevelandTwistDrill/ctdc01_small.png) 
+| 3D Printed Custom Structures - urban-industrial scenes <br /> [New Tennessee Brewery](buildingBrew//brew.md) <br /> [Hyde Building](buildingHyde/buildingHyde.md) <br /> [Middle Building](buildingMiddle/buildingMiddle.md) <br /> [Block Building](buildingBlock/buildingBlock.md) <br /> [The Cleveland Twist Drill Co.](buildingClevelandTwistDrill/buildingCYDC.md) <br /> [The Corner Building](buildingCorner/buildingCorner.md) <br /> [Unicorn Foundry](buildingFoundry/buildingFoundry.md) <br /> ![](buildingCorner/buildingCornerAltColor_small.png) | ![](toc/tocDownStreetClose.png) ![](buildingClevelandTwistDrill/ctdc01_small.png) 
 | [**3D Printed St. Rita Building Start to Finish**](buildingStRitaStartToFinish/buildingStRita.md) <br /> Design, printing, assembly, painting <br /> ![](buildingStRitaStartToFinish/ModelPartA.png) | ![Assembled Structure](buildingStRitaStartToFinish/assembledStructure_d.png)
 | [**3D Printed Retaining Walls and Underpasses**](https://nscale4by8.github.io/nscale4x8/Scenery/part01/part01.html) <br /> ![Setting](toc/tocRetainingWall_p.png) | ![](Scenery/1.png) 
 | [**Scenery**](Scenery/Scenery.md) Construction of various sections of scenery ranging from industrial structures to cuts through sedimentary rock to overpasses <br /> ![](Scenery/part02/IMG_0483small.png) | ![](toc/tocArea00.png) ![](toc/tocArea01.png)
