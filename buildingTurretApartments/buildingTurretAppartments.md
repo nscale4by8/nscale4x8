@@ -5,6 +5,7 @@ The "Turret Apartments" structure was designed from scratch, 3D printed, painted
 Model Rendered in Blender           |   Printed & Assembled                
 :----------------------------------:|:----------------------------------:
 ![Model](render_small.png)   |  ![Printed](IMG_0707.png)
+![Model](IMG_0717.png)   |  ![Printed](IMG_0716.png)
 
 ## A Future Home on the Layout
 
