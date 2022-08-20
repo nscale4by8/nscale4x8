@@ -19,6 +19,9 @@ Here are some images found elsewhere on the site. If these pique your curiosity,
 
 ![Models and Prototype Inspirations](printedModels/Custom3DPrintedModels.png)
 
+### Halle's Department Store
+![](buildingHalles/HallesA.png)
+
 ### The Cleveland Twist Drill Co.
 
 This amalgamation of multiple prototypes provides another indusrty to be serviced.
