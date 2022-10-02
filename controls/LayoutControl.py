@@ -27,7 +27,7 @@ class TestModeA:
    def enter(self, control):
       state = True
       i = 0
-      while i < 14:
+      while i < len(turnoutLetterToPointsID):
          print(i)
          control.setPoints(i, state)
          sleep(0.25)
@@ -146,9 +146,9 @@ class LayoutControl:
          
       gpioPinNumber = LayoutControl.gpioPinSequence[pointsID]
       gpioPin = LayoutControl.gpioPins[gpioPinNumber]
-      gpioPin.off(); '''means on because active-low'''
-      sleep(0.2)
-      gpioPin.on(); '''means off because active-low'''
+      gpioPin.off(); # means on because active-low
+      sleep(0.2)  # Don't leave relay on very long to avoid damaging solonoid
+      gpioPin.on(); # means off because active-low'''
       motor.setSpeed(0)
 
    def setMode(self, mode):
