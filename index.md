@@ -20,27 +20,3 @@
 | [**3D Printed Retaining Walls and Underpasses**](https://nscale4by8.github.io/nscale4x8/Scenery/part01/part01.html) <br /> ![Setting](toc/tocRetainingWall_p.png) | ![](Scenery/1.png) 
 | [**Scenery**](Scenery/Scenery.md) Construction of various sections of scenery ranging from industrial structures to cuts through sedimentary rock to overpasses <br /> ![](Scenery/part02/IMG_0483small.png) | ![](toc/tocArea00.png) ![](toc/tocArea01.png)
 | | [**Downloadable Models**](downloadableModels/downloadableModels.md) For the purpose of licensing, all models <br /> here are considered "software" and are MIT Licensed. The MIT License permits Commercial use, Modification, Distribution, and Private use.
-
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0771.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0772.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0774.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0775.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0776.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0777.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0778.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0780.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0781.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0782.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0785.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0787.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0793.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0793.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0795.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0796.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0798.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0802.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0807.png)
-![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0808.png)
-
-
-
