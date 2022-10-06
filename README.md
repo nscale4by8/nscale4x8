@@ -61,3 +61,26 @@ Model         |   Printed
 ![](buildingBlock/B.png) | ![](buildingBlock/buildingBlockFrontC.png)  
 
 [Block Building](buildingBlock/buildingBlock.md)
+
+# Gallary
+
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0771.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0772.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0774.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0775.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0776.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0777.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0778.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0780.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0781.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0782.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0785.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0787.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0793.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0793.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0795.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0796.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0798.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0802.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0807.png)
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0808.png)
