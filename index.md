@@ -21,4 +21,7 @@
 | [**Scenery**](Scenery/Scenery.md) Construction of various sections of scenery ranging from industrial structures to cuts through sedimentary rock to overpasses <br /> ![](Scenery/part02/IMG_0483small.png) | ![](toc/tocArea00.png) ![](toc/tocArea01.png)
 | | [**Downloadable Models**](downloadableModels/downloadableModels.md) For the purpose of licensing, all models <br /> here are considered "software" and are MIT Licensed. The MIT License permits Commercial use, Modification, Distribution, and Private use.
 
+![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0771.png)
+
+
 
