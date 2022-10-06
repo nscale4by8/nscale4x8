@@ -62,7 +62,7 @@ Model         |   Printed
 
 [Block Building](buildingBlock/buildingBlock.md)
 
-# Gallary
+# Status in September 2022
 
 ![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0771.png)
 ![](https://github.com/nscale4by8/nscale4x8/blob/master/20220802/IMG_0772.png)
