@@ -14,6 +14,6 @@ This area has a "cut" for the double track main line through sedimentary rock. M
 
 [Scenery for this section](part02/part02.md)
 
-[Scenery for this section](liftOutSections/liftOut.md)
+[Lift Out Sections](liftOutSections/liftOut.md)
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
