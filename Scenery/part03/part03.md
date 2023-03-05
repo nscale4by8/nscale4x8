@@ -11,11 +11,10 @@ Prototype         |        Prototype
 
 ## Scenery in progress...
 
-![](1.png)
-![](a.png)
-![](b.png)
-![](c.png)
-![](d.png)
-![](e.png)
+Model         |        Model              
+:----------------------------------:|:----------------------------------:
+![](1.png) | ![](a.png)
+![](b.png) | ![](c.png)
+![](d.png) | ![](e.png)
 
 [Back](../Scenery.md)
