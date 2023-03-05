@@ -4,7 +4,7 @@ I used these prototype inspirations:
 
 Prototype         |        Model              
 :----------------------------------:|:----------------------------------:
-![road above railroad tracks](../part02/iu-4.jpeg) ![road above railroad tracks](../part02/iu-2.jpeg) | ![](c.png) 
+![road above railroad tracks](../part02/iu-4.jpeg) ![road above railroad tracks](../part02/1a.jpeg) | ![](c.png) 
 ![cut](../part02/iu-3.jpeg)  |  ![](b.png)
 ![cut](../part02/iu.jpeg) | ![](a.png)
 ![Lift Bridge Road Crossing](Screen18.png) | ![](IMG_0957.png)
@@ -15,10 +15,6 @@ Prototype         |        Model
 
 Model         |        Model              
 :----------------------------------:|:----------------------------------:
-![](1.png) | ![](a.png)
-![](b.png) | ![](c.png)
-![](d.png) | ![](e.png)
-![](IMG_0772.png) | ![](IMG_0957.png)
-![](IMG_0959.png) | 
+![](1.png) | ![](c.png)
 
 [Back](../Scenery.md)
