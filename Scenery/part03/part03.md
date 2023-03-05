@@ -1,4 +1,4 @@
-# Part 03
+# Part 03 Scenery in progress...
 
 I used these prototype inspirations:
 
@@ -11,7 +11,7 @@ Prototype         |        Model
 ![Flats Industry](industry.png) | ![](e.png) ![](IMG_0772.png)
 ![Road Overpass](liftBridgeRoadCrossing.png) | ![](IMG_0959.png)
 
-## Scenery in progress...
+## Other angles
 
 Model         |        Model              
 :----------------------------------:|:----------------------------------:
