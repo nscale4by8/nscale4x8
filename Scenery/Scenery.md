@@ -18,6 +18,8 @@ This area has a "cut" for the double track main line through sedimentary rock. M
 This area contains more rock formations, tunnels under urban infrstructure, and numerous industries.
 ![Image of steel viaduct](area02.png)
 
+[Scenery for this section](part03/part03.md)
+
 [Edge of Urban Core](part03/part03.md)
 
 [Lift Out Sections](liftOutSections/liftOut.md)
