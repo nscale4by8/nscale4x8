@@ -32,8 +32,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Models
 
 - [Bridge Ties](bridgeTiesForKatoRails/readme.md)
-- [Pat's in the Flats](CornerBarDilapidatedRevB.stl)
-- [Pat's in the Flats Windows & Doors](WindowsDoors.stl)
+- [Pat's in the Flats](../buildingPatsInFlats/CornerBarDilapidatedRevB.stl)
+
+- [Pat's in the Flats Windows & Doors](../buildingPatsInFlats/WindowsDoors.stl)
 
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
