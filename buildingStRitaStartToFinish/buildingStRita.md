@@ -65,13 +65,6 @@ I use black India ink diluted with water to weather almost all of my models. The
 
 Assembly is simple and goes fast once paint has dried. The windows fit snugly snapping into place and don't require glue to stay in place, but I glue them anyway.
 
-![Assembled Structure](assembledStructure.png)
-
-![Assembled Structure](assembledStructure_b.png)
-
-![Assembled Structure](assembledStructure_c.png)
-
-![Assembled Structure](assembledStructure_d.png)
-
+![Assembled Structure](../20230822/!IMG_1143.png)
 
 [Back](https://nscale4by8.github.io/nscale4x8/)

@@ -43,4 +43,7 @@ The bay windows in this model require a 2.34cm [almost an inch] bridge [printing
 
 In the past, I have printed walls flat and then assembled the structures from parts. This is the first significant structure I have printed as all one piece. On the rare occasions I've needed bridging in the past, I included cut-away supports for long spans over air. In a smaller test print to verify the printability of certain model aspects, some of my cut-away supports didn't print. I accidentally made them thinner that the print head nozzle. To my surprise, the bridging parts worked anyway, so I just deleted the supports.
 
+![](../20230822/CornerBuilding.png)
+![](../20220802/IMG_0793.png)
+
 [Back](https://nscale4by8.github.io/nscale4x8/)

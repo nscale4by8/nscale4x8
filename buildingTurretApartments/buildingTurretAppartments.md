@@ -5,11 +5,11 @@ The "Turret Apartments" structure was designed from scratch, 3D printed, painted
 Model Rendered in Blender           |   Printed & Assembled                
 :----------------------------------:|:----------------------------------:
 ![Model](render_small.png)   |  ![Printed](IMG_0707.png)
-![Model](IMG_0717.png)   |  ![Printed](IMG_0716.png)
+
 
 ## A Future Home on the Layout
 
-![In the Neighborhood](IMG_0711.png)
+![In the Neighborhood](../20230822/!IMG_1087.png)
 
 The structure next door is St. Rita's. There is a [brief article](../buildingStRitaStartToFinish/buildingStRita.md) about designing and printing St. Rita's.
 
@@ -25,9 +25,6 @@ I create my own designs tailored for specific locations on my layout and the cap
 
 ## Gallery
 
-![Screen Shot of SketchUp Model](IMG_0704.png)
-![Screen Shot of SketchUp Model](IMG_0710.png)
-![Screen Shot of SketchUp Model](IMG_0712.png)
-![Row of Apartments](IMG_0715.png)
+![Row of Apartments](../20230822/!IMG_1024.png)
 
 [Back](https://nscale4by8.github.io/nscale4x8/)

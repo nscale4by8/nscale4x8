@@ -4,11 +4,11 @@ I want an industry served by flat cars and hoppers. An iron or steel foundry fit
 
 I designed the foundry with a 19th century front office and a more modern fabrication facility. Foundries used to be "smoke stack" industries that burned coal to heat furnaces. After WWII, smaller cheaper foundries that use electric forges replaced the sprawling dirty complexes. In my layout's universe, the Unicorn Foundry switched over to more economical electric forges in a modern (as of the 1960s) building. Sadly, low prices and foreign competition have strained the business. Non-essentials like exterior paint aren't in the budget, so unsightly rust becomes the inevitable result.
 
-![Small image](buildingFoundrySmall.png)
+![Small image](../20230822/!IMG_1027.png)
 
 This structure was trivial to design and 3D print. It looks out of scale to my eyes, but I checked and double checked the dimensions against prototypes. Modern-ish foundry buildings are about 6 stories high and have roof ventilation systems that are ten feet across. There is a 30ft "high bay" door in the back of the structure that is also prototypical.
 
-![](buildingFoundryBack.png)
+![](../20230822/!IMG_1074.png)
 
 I also designed and printed a overhead crane for transferring cargo between the work yard and rail cars. I'll eventually fill the work yard with crates, rolled steel coils, scrap metal, etc. I'll add fencing around the work yard, weather the concrete, etc.
 

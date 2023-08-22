@@ -34,7 +34,9 @@ I don't like is the brick pattern of pre-molded styrene brick sheets. The basic 
 Back         |   Other Side                   
 :----------------------------------:|:----------------------------------:
 ![Back](D.png)  |  ![Side](F.png)
-![Back](A_p.png)  |  ![Side](F_p.png)
+![Back](../20230822/IMG_1124.png)  |  ![Side](F_p.png)
+
+![](../20230822/IMG_1037.png)
 
 I bricked-up some of the windows and modeled details to the limit of my printer's capabilities.  There is a texture to the loading door. I added miscellaneous mechanical boxes. ![Back](E.png)
 

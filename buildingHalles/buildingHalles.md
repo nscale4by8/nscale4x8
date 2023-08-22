@@ -22,7 +22,7 @@ Built Model                         |   Prototype
 Built Model Details                 |   Built ModelDetails                   
 :----------------------------------:|:----------------------------------:
 ![](HallesG.png)                    |  ![](HallesD.png)
-![](HallesE.png)                    |  ![](HallesF.png)
+![](../20230822/IMG_1031.png)                    |  ![](HallesF.png)
 
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
