@@ -11,4 +11,10 @@
 
 [High Resolution Plan](Rev8Blocks.pdf)
 
+![](!IMG_1177a.png)
+![](!IMG_1182a.png)
+![](!IMG_1193.png)
+![](!IMG_1200b.png)
+![](!IMG_1214.png)
+
 [Back](https://nscale4by8.github.io/nscale4x8/)
