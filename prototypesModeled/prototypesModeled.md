@@ -5,10 +5,9 @@
 |![](../20230822/!IMG_1018.png)|![](../buildingPatsInFlats/PatsOilStorageBackground.png)|
 |![](./steelViaduct.png)       |![](./buildingPatsFromAbove.png)|
 
-| Diamond Into Bridge          |
-|------------------------------|
-|![](../prototypeInspiration/levelCrossingAtBridge_p.png)|
-|![](../20230822/!IMG_1153.png)|
+| Diamond Into Bridge          |                              |
+|------------------------------|------------------------------|
+|![](../prototypeInspiration/levelCrossingAtBridge_p.png)|![](../20230822/!IMG_1153.png)|
 
 | Grade Crossing to Bascule    |                              |
 |------------------------------|------------------------------|
