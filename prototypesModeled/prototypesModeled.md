@@ -7,7 +7,7 @@
 
 | Diamond Into Bridge          |                              |
 |------------------------------|------------------------------|
-|![](../prototypeInspiration/levelCrossingAtBridge_p.png)|![](../20230822/!IMG_1153.png)|
+|![](../prototypeInspiration/levelCrossingAtBridge_p.png)|![](./diamondIntoBridge.png)|
 
 | Grade Crossing to Bascule    |                              |
 |------------------------------|------------------------------|
