@@ -34,50 +34,39 @@
 | Road Arch Overpasses         |                              |
 |------------------------------|------------------------------|
 |![](./roadArchOverpass_p.png) |![](./roadArchOverpass.png)   |
-|![](../20230906/IMG_1208.png) |
 
 
-| Lift Bridges in Context      |
-|------------------------------|
-|![](./railLiftBridges_p.png)  |
-|![](../20230906/IMG_1217.png) |
+| Lift Bridges in Context      |                              |
+|------------------------------|------------------------------|
+|![](./railLiftBridges_p.png)  |![](../20230906/IMG_1217.png) |
 
-| Overhead Crane               |
-|------------------------------|
-|![](./overheadCrane_p.png)|
-|![](./overheadCrane.png)|
+| Overhead Crane               |                              |
+|------------------------------|------------------------------|
+|![](./overheadCrane_p.png)    |![](./overheadCrane.png)      |
 
-| Industry for Grain Hoppers   |
-|------------------------------|
-|![](../prototypeInspiration/industry.png)|
-|![](../20230906/IMG_1231.png)|
+| Industry for Grain Hoppers   |                              |
+|------------------------------|------------------------------|
+|![](../prototypeInspiration/industry.png)|![](../20230906/IMG_1231.png)|
 |![](industryForGrainHoppersB_p.png)|
 
-| Worlds Longest Bascule Bridge|
-|------------------------------|
-|![](./basculeA_p.png)|
-|![](./basculeA.png)|
-|![](./basculeB_p.png)|
-|![](./basculeB.png)|
-|![](./basculeC_p.png)|
-|![](./basculeC.png)|
+| Worlds Longest Bascule Bridge|                              |
+|------------------------------|------------------------------|
+|![](./basculeA_p.png)         |![](./basculeA.png)           |
+|![](./basculeB_p.png)         |![](./basculeB.png)           |
+|![](./basculeC_p.png)         |![](./basculeC.png)           |
 
-| Block Building               |
-|------------------------------|
-|![](protoB.png)               |
-|![](buildingBlockFrontB.png)  |
+| Block Building               |                              |
+|------------------------------|------------------------------|
+|![](protoB.png)               |![](buildingBlockFrontB.png)  |
 
-| Brewery                      |
-|------------------------------|
-|![](buildingBrewA_p.png)      |
-|![](buildingBrewA.png)        |
-|![](buildingBrewB_p.png)      |
-|![](buildingBrewB.png)        |
-|![](IMG_1228.png)             |
+| Brewery                      |                              |
+|------------------------------|------------------------------|
+|![](buildingBrewA_p.png)      |![](buildingBrewA.png)        |
+|![](buildingBrewB_p.png)      |![](buildingBrewB.png)        |
+|![](IMG_1228.png)             |                              |
 
-| Rails Below Grade            |
-|------------------------------|
-|![](./railsBelowGradeA_p.png)|
-|![](./railsBelowGradeA.png)|
-|![](./railsBelowGradeB_p.png)|
+| Rails Below Grade            |                              |
+|------------------------------|------------------------------|
+|![](./railsBelowGradeA_p.png) |![](./railsBelowGradeA.png)   |
+|![](./railsBelowGradeB_p.png) |                              |
 
