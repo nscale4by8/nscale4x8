@@ -18,10 +18,9 @@
 |![](./gradeCrossingToModernLift.png) |![](../prototypeInspiration/Screen18.png) |
 |![](../prototypeInspiration/curveToLiftBridge.png)| ![](./modernLiftBridgeSide.png) |
 
-| Double Track Truss Lift      |
-|------------------------------|
-|![](../prototypeInspiration/Screen20.png)|
-|![](./doubleTrackTrussLift_.png)|
+| Double Track Truss Lift      |                              |
+|------------------------------|------------------------------|
+|![](./doubleTrackTrussLift_p.png)|![](./doubleTrackTrussLift_.png)|
 
 | Urban Tunnel      |
 |------------------------------|
