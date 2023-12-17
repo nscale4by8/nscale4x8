@@ -15,7 +15,7 @@
 
 | Grade Crossing to Modern Lift|                              |
 |------------------------------|------------------------------|
-|![](../20230906/IMG_1261.png) |![](../prototypeInspiration/Screen18.png) |
+|![](./gradeCrossingToModernLift.png) |![](../prototypeInspiration/Screen18.png) |
 |![](../prototypeInspiration/curveToLiftBridge.png)| ![](modernLiftBridgeA_p.png) |
 |![](../20230906/IMG_1190.png)
 
