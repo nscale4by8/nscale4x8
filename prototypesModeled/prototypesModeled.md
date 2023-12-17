@@ -1,17 +1,20 @@
 # Vignettes Inspired by Prototypes
 
+
+| Brewery                      |                              |
+|------------------------------|------------------------------|
+|![](./buildingBrewA_p.png)    |![](./buildingBrewA.png)      |
+|![](./buildingBrewB_p.png)    |![](./buildingBrewB.png)      |
+|![](./buildingBrewC.png)      |                              |
+
+| Block Building               |                              |
+|------------------------------|------------------------------|
+|![](protoB.png)               |![](buildingBlockFrontB.png)  |
+
 | Pat's in the Flats           |                              |
 |------------------------------|------------------------------|
 |![](../20230822/!IMG_1018.png)|![](../buildingPatsInFlats/PatsOilStorageBackground.png)|
 |![](./steelViaduct.png)       |![](./buildingPatsFromAbove.png)|
-
-| Diamond Into Bridge          |                              |
-|------------------------------|------------------------------|
-|![](../prototypeInspiration/levelCrossingAtBridge_p.png)|![](../prototypeInspiration/diamondIntoBridge.png)|
-
-| Grade Crossing to Bascule    |                              |
-|------------------------------|------------------------------|
-|![](gradeCrossingToBascule.png)|![](./basculeSetting.png)|
 
 | Grade Crossing to Modern Lift|                              |
 |------------------------------|------------------------------|
@@ -21,6 +24,14 @@
 | Double Track Truss Lift      |                              |
 |------------------------------|------------------------------|
 |![](./doubleTrackTrussLift_p.png)|![](./doubleTrackTrussLift_.png)|
+
+| Diamond Into Bridge          |                              |
+|------------------------------|------------------------------|
+|![](../prototypeInspiration/levelCrossingAtBridge_p.png)|![](../prototypeInspiration/diamondIntoBridge.png)|
+
+| Lift Bridges in Context      |                              |
+|------------------------------|------------------------------|
+|![](./railLiftBridges_p.png)  |![](./basculeSetting.png)     |
 
 | Urban Tunnel                 |                              |
 |------------------------------|------------------------------|
@@ -34,11 +45,6 @@
 | Road Arch Overpasses         |                              |
 |------------------------------|------------------------------|
 |![](./roadArchOverpass_p.png) |![](./roadArchOverpass.png)   |
-
-
-| Lift Bridges in Context      |                              |
-|------------------------------|------------------------------|
-|![](./railLiftBridges_p.png)  |![](../20230906/IMG_1217.png) |
 
 | Overhead Crane               |                              |
 |------------------------------|------------------------------|
@@ -54,16 +60,6 @@
 |![](./basculeA_p.png)         |![](./basculeA.png)           |
 |![](./basculeB_p.png)         |![](./basculeB.png)           |
 |![](./basculeC_p.png)         |![](./basculeC.png)           |
-
-| Block Building               |                              |
-|------------------------------|------------------------------|
-|![](protoB.png)               |![](buildingBlockFrontB.png)  |
-
-| Brewery                      |                              |
-|------------------------------|------------------------------|
-|![](./buildingBrewA_p.png)    |![](./buildingBrewA.png)      |
-|![](./buildingBrewB_p.png)    |![](./buildingBrewB.png)      |
-|![](./buildingBrewC.png)      |                              |
 
 | Rails Below Grade            |                              |
 |------------------------------|------------------------------|
