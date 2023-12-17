@@ -7,7 +7,7 @@
 
 | Diamond Into Bridge          |                              |
 |------------------------------|------------------------------|
-|![](../prototypeInspiration/levelCrossingAtBridge_p.png)|![](./diamondIntoBridge.png)|
+|![](../prototypeInspiration/levelCrossingAtBridge_p.png)|![](../prototypeInspiration/diamondIntoBridge.png)|
 
 | Grade Crossing to Bascule    |                              |
 |------------------------------|------------------------------|
@@ -46,7 +46,7 @@
 
 | Industry for Grain Hoppers   |                              |
 |------------------------------|------------------------------|
-|![](../prototypeInspiration/industry.png)|![](../20230906/IMG_1231.png)|
+|![](../prototypeInspiration/industry.png)|![](./industryForGrainHoppers.png)|
 |![](industryForGrainHoppersB_p.png)|
 
 | Worlds Longest Bascule Bridge|                              |
@@ -61,9 +61,9 @@
 
 | Brewery                      |                              |
 |------------------------------|------------------------------|
-|![](buildingBrewA_p.png)      |![](buildingBrewA.png)        |
-|![](buildingBrewB_p.png)      |![](buildingBrewB.png)        |
-|![](IMG_1228.png)             |                              |
+|![](./buildingBrewA_p.png)    |![](./buildingBrewA.png)      |
+|![](./buildingBrewB_p.png)    |![](./buildingBrewB.png)      |
+|![](./buildingBrewC.png)      |                              |
 
 | Rails Below Grade            |                              |
 |------------------------------|------------------------------|
