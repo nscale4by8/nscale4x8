@@ -1,10 +1,9 @@
 # Vignettes Inspired by Prototypes
 
-| Pat's in the Flats           |
+| Pat's in the Flats           |                              |
 |------------------------------|------------------------------|
 |![](../20230822/!IMG_1018.png)|![](../buildingPatsInFlats/PatsOilStorageBackground.png)|
-|![](./steelViaduct.png) |
-|![](./buildingPatsFromAbove.png)|
+|![](./steelViaduct.png)       |![](./buildingPatsFromAbove.png)|
 
 | Diamond Into Bridge          |
 |------------------------------|
