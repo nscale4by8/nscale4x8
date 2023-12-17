@@ -16,8 +16,7 @@
 | Grade Crossing to Modern Lift|                              |
 |------------------------------|------------------------------|
 |![](./gradeCrossingToModernLift.png) |![](../prototypeInspiration/Screen18.png) |
-|![](../prototypeInspiration/curveToLiftBridge.png)| ![](modernLiftBridgeA_p.png) |
-|![](./modernLiftBridgeSide.png)
+|![](../prototypeInspiration/curveToLiftBridge.png)| ![](./modernLiftBridgeSide.png) |
 
 | Double Track Truss Lift      |
 |------------------------------|
