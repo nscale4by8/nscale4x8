@@ -5,7 +5,8 @@
 |------------------------------|------------------------------|
 |![](./buildingBrewA_p.png)    |![](./buildingBrewA.png)      |
 |![](./buildingBrewB_p.png)    |![](./buildingBrewB.png)      |
-|![](./buildingBrewC.png)      | The prototype location in the Cleveland Flats is the site of a commercial bakery. I took some liberty and made a Brewery instead. I stumbled upon the prototype Tennessee Brewery in Memphis TN. It inspired the 3D model you see printed here. ![](./brewFrontElevationModel.png)|
+|![](./buildingBrewC.png)      | The prototype location in the Cleveland Flats is the site of a commercial bakery. I took some liberty and made a Brewery instead. I stumbled upon the prototype Tennessee Brewery in Memphis TN. It inspired the 3D model you see printed here.
+![](./brewFrontElevationModel.png)|
 
 | Block Building               |                              |
 |------------------------------|------------------------------|
