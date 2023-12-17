@@ -5,7 +5,7 @@
 |![](../20230822/!IMG_1018.png)|
 |![](../buildingPatsInFlats/PatsOilStorageBackground.png)|
 |![](./steelViaduct.png) |
-|![](../20230822/!IMG_1046.png)|
+|![](./buildingPatsFromAbove.png)|
 
 | Diamond Into Bridge          |
 |------------------------------|
