@@ -22,10 +22,9 @@
 |------------------------------|------------------------------|
 |![](./doubleTrackTrussLift_p.png)|![](./doubleTrackTrussLift_.png)|
 
-| Urban Tunnel      |
-|------------------------------|
-|![](./urbanTunnelA_p.png)|
-|![](./urbanTunnelA.png)|
+| Urban Tunnel                 |                              |
+|------------------------------|------------------------------|
+|![](./urbanTunnelA_p.png)     |![](./urbanTunnelA.png)       |
 
 | Road Underpasses             |                              |
 |------------------------------|------------------------------|
@@ -35,7 +34,7 @@
 | Road Arch Overpasses         |                              |
 |------------------------------|------------------------------|
 |![](./roadArchOverpass_p.png) |![](./roadArchOverpass.png)   |
-|![](../20230906/IMG_1208.png)|
+|![](../20230906/IMG_1208.png) |
 
 
 | Lift Bridges in Context      |
