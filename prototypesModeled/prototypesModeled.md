@@ -11,7 +11,7 @@
 
 | Grade Crossing to Bascule    |                              |
 |------------------------------|------------------------------|
-|![](gradeCrossingToBascule.png)|![](../20230906/IMG_1255.png)|
+|![](gradeCrossingToBascule.png)|![](./basculeSetting.png)|
 
 | Grade Crossing to Modern Lift|                              |
 |------------------------------|------------------------------|
