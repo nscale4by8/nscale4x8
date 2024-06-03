@@ -19,6 +19,9 @@ Here are some images found elsewhere on the site. If these pique your curiosity,
 
 ![Models and Prototype Inspirations](printedModels/Custom3DPrintedModels.png)
 
+### Bank in Van Buren, AR
+![](buildingBankVanBurenAR/IMG_1327.png)
+
 ### Halle's Department Store
 ![](buildingHalles/HallesA.png)
 
