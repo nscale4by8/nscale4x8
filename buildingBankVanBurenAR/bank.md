@@ -9,4 +9,4 @@ Front Elevation         |   First Test Print
 ![](prototypeFRontElevation.png) | ![](draft3DModel.png)
 ![](IMG_1328.png)  |  ![](IMG_1330.png)
 
-[Short video of first test print](buildingBankVanBurenAR.mp4)
+[Short video of first test print](testPrintVideo720p.mp4)
