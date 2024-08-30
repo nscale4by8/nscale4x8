@@ -4,5 +4,6 @@ In 2020, I wrote an article for ["Nscale Modelrailroading" issue #122](https://n
 
 Here some more recent views of the roads build for the article:
 ![](../buildingPatsInFlats/IMG_0999.png)
-![](../buildingPatsInFlats/IMG_1002.png)
-![](../20230906/IMG_1200.png)
+![](IMG_1421.png)
+![](IMG_1423.png)
+![](IMG_1422.png)
