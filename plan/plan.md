@@ -1,5 +1,17 @@
 # Track Plan
- 
+
+The Cleveland Flats Industrial District was a spaghetti bowl of crisscrossing railroads at multiple elevations. There were at least eleven railroad lift bridges over the Cuyahoga River.
+
+![](ClevelandRailroadMap_wide.png)
+
+Railroad Map circa 1950
+
+## The Heart At The Center
+
+![](ClevelandRailroadMap.png)
+
+## A Plan That Captures The Essence
+
 The plan is inspired by the famous [Atlas Granite Gorge & Northern](https://www.modeltrainforum.com/picture.php?albumid=241&pictureid=2492). 
  
 The adapted plan can be configured as a double track figure eight with two trains running in opposite directions.
@@ -15,6 +27,5 @@ The adapted plan can be configured as a double track figure eight with two train
 ![](!IMG_1182a.png)
 ![](!IMG_1193.png)
 ![](!IMG_1200b.png)
-![](!IMG_1214.png)
 
 [Back](https://nscale4by8.github.io/nscale4x8/)
